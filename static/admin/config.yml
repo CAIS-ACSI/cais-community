@@ -109,6 +109,10 @@ collections:
         name: "projects"
         required: false
         widget: "list"
+      - label: "Events"
+        name: "events"
+        required: false
+        widget: "list"
       - label: "Featured Image"
         name: "image"
         required: false
