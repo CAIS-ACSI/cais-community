@@ -105,8 +105,8 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - label: "Projects"
-        name: "projects"
+      - label: "Events"
+        name: "events"
         required: false
         widget: "list"
       - label: "Events"
@@ -129,10 +129,10 @@ collections:
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
-  - name: projects
-    label: Projects
-    label_singular: Project
-    folder: 'content/project'
+  - name: events
+    label: Events
+    label_singular: Event
+    folder: 'content/event'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
@@ -161,7 +161,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to event page)", name: "external_link", widget: "string"}
       - label: Links
         name: links
         required: false
@@ -229,7 +229,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to event page)", name: "external_link", widget: "string"}
       - label: Links
         name: links
         required: false
@@ -321,8 +321,8 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - label: "Projects (reference projects in 'content/project/')"
-        name: "projects"
+      - label: "Events (reference events in 'content/event/')"
+        name: "events"
         required: false
         widget: "list"
       - label: "Featured Image"

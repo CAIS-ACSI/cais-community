@@ -35,8 +35,8 @@ font_size = "L"
 # Website type
 #   Improve how search engines understand your site.
 #   For personal sites, choose "Person".
-#   For organizations and projects, choose from https://schema.org/Organization#subtypes
-#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+#   For organizations and events, choose from https://schema.org/Organization#subtypes
+#   E.g. Person, Organization, LocalBusiness, Event, EducationalOrganization
 site_type = "Person"
 
 # Local business type (optional)
@@ -44,7 +44,7 @@ site_type = "Person"
 local_business_type = ""
 
 # Organization name (optional)
-# Enter an organization or project name. Defaults to the site title from `config.toml`.
+# Enter an organization or event name. Defaults to the site title from `config.toml`.
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = true, page = false, post = true, event = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -203,8 +203,8 @@ plugins_js  = []
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
-# Configuration of project pages.
-[projects]
+# Configuration of event pages.
+[events]
   # Views for associated content.
   #   1: List
   #   2: Compact
@@ -236,7 +236,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = true, post = true, docs = true, event = true, publication = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]

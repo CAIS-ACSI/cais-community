@@ -1,5 +1,5 @@
 ---
-title: "project"
+title: "event"
 subtitle: "subtitle"
 date: 2020-06-28
 summary: This is the summary
