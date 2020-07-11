@@ -15,6 +15,7 @@ authors:
 tags:
   - "a tag"
   - "another tag"
+project: uwo-workshop
 image:
   filename: featured
   focal_point: Smart
