@@ -5,7 +5,11 @@ date: 2020-06-28
 summary: This is the summary
 draft: false
 featured: false
-external_link: 
+external_link: []
+authors:
+ - Alex Mayhew
+ - Amber Matthews
+ - Philippe MOngeon
 
 image:
   filename: featured
