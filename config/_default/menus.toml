@@ -17,11 +17,6 @@
   name = "Events"
   url = "#events"
   weight = 30
-  
-[[main]]
-  name = "Events"
-  url = "#events"
-  weight = 30
 
 [[main]]
   name = "Publications"
