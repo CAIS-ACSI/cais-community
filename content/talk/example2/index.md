@@ -15,6 +15,8 @@ authors:
 tags:
   - "a tag"
   - "another tag"
+categories:
+  - "uwo workshop"
 image:
   filename: featured
   focal_point: Smart
