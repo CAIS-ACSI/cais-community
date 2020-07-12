@@ -16,4 +16,4 @@ image:
 
 |Session| Presentation |
 |-------|---|
-| 10:00 am to 11:30 am | [A](../talk/example) |
+| 10:00 am to 11:30 am | [A](../../talk/example) |
