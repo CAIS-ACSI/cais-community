@@ -34,10 +34,8 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- name: event
+  url: ../event/uwo-workshop
 url_code: ""
 url_pdf: ""
 url_slides: ""
