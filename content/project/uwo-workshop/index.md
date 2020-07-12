@@ -16,6 +16,6 @@ image:
 
 | Time        	| Presentation                                	| location                           	|
 |-------------	|---------------------------------------------	|------------------------------------	|
-| 10:00-10:30 	| Presentation 1<br>Author1, Author2, Author3 	| [zoomlinkhere](zoomwillbehere.com) 	|
-| 10:30-11:00 	| Presentation 2<br> Authors1, Author2        	| [zoomlinkhere](zoomwillbehere.com) 	|
-| 11:00-11:30 	| Presentation 3<br> Author4                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 10:00-10:30 	| [Presentation 1](../../talk/example)<br> Author1, Author2, Author3 	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 10:30-11:00 	| [Presentation 2](../../talk/aaaaa)<br> Authors1, Author2        	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:30 	| [Presentation 3](../../talk/example2)<br> Author4                  	| [zoomlinkhere](zoomwillbehere.com) 	|
