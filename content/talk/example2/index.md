@@ -15,8 +15,6 @@ authors:
 tags:
   - "a tag"
   - "another tag"
-categories:
-  - "uwo workshop"
 links:
   - name: UWO Workshop
     url: ../event/uwo-workshop
