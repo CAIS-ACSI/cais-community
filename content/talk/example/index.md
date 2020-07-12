@@ -24,7 +24,8 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [uwo workshop]
+categories: [uwo workshop]
 
 # Is this a featured talk? (true/false)
 featured: false
