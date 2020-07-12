@@ -1,5 +1,5 @@
 ---
-title: "event"
+title: "UWO workshop"
 subtitle: "subtitle"
 date: 2020-06-28
 summary: This is the summary
