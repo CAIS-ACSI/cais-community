@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. event.
-  page_type = "project"
+  page_type = "event"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
