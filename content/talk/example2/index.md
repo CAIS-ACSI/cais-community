@@ -11,7 +11,7 @@ publishDate: 2020-01-01
 draft: false
 featured: false
 authors:
-  - author name here
+  - Alex Mayhew
 tags:
   - "a tag"
   - "another tag"
