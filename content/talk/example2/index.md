@@ -1,5 +1,5 @@
 ---
-title: "This is another example title"
+title: "A this is another example title"
 abstract: "This is another example abstract"
 location: www.zoomlinkwillbehere.com
 date: 2020-06-26T12:36:37.763Z
