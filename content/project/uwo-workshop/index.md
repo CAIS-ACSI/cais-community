@@ -14,6 +14,6 @@ image:
 
 ### Program
 
-|Session| B |
+|Session| Presentation |
 |-------|---|
-| 10-11 | A |
+| 10:00 am to 11:30 am | [A](../talk/example) |
