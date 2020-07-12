@@ -7,13 +7,6 @@ draft: false
 featured: false
 external_link: 
 
-authors:
-  - Author 1
-  - Author 2
-  - Author 3
-  - Author 4
-
-
 image:
   filename: featured
   focal_point: Smart
