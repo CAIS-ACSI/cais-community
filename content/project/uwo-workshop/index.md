@@ -14,6 +14,6 @@ image:
 
 ### Program
 
-##### Talk 1
-Time : 10pm - 12pm
-Author: A and B
+|Session| B |
+|-------|---|
+| 10-11 | A |
