@@ -17,6 +17,14 @@ tags:
   - "another tag"
 categories:
   - "uwo workshop"
+links:
+  - name: UWO Workshop
+    url: ../event/uwo-workshop
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
 image:
   filename: featured
   focal_point: Smart

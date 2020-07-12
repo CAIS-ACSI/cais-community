@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 links:
-- name: event
+- name: UWO Workshop
   url: ../event/uwo-workshop
 url_code: ""
 url_pdf: ""
