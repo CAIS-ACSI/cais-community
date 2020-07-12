@@ -7,8 +7,6 @@ title: Events
 #   3 = Card
 view: 2
 
-aliases = ["/event/"]
-
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
