@@ -9,7 +9,7 @@ external_link: []
 authors:
  - Alex Mayhew
  - Amber Matthews
- - Philippe MOngeon
+ - Philippe Mongeon
 
 image:
   filename: featured
