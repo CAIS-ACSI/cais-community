@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: The Community of the Canadian Association for Information Science
 
 # Organizations/Affiliations
 organizations:
