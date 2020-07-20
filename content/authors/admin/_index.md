@@ -14,8 +14,8 @@ role: The Community of the Canadian Association for Information Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CAIS-ACSI
+  url: "http://cais-acsi.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: The CAIS Community supports a wide variety of reseach programs and topics of investigation
