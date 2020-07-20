@@ -53,6 +53,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+CAIS was incorporated in 1970 to promote the advancement of information science in Canada, and encourage and facilitate the exchange of information relating to the use, access, retrieval, organization, management, and dissemination of information.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+CAIS achieves these goals through its internationally recognized journal, the Canadian Journal of Information and Library Science, and its annual conference.
+
+CAIS members include information scientists and archivists, librarians, computer scientists, documentalists, economists, educators, journalists, psychologists, and others who support its objectives.
