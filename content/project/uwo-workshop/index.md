@@ -1,6 +1,6 @@
 ---
 title: "UWO workshop"
-subtitle: "subtitle"
+subtitle: "FIMS Graduate Research Day"
 date: 2020-06-28
 summary: This is the summary
 draft: false
