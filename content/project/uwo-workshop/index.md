@@ -10,7 +10,6 @@ authors:
  - Alex Mayhew
  - Amber Matthews
  - Philippe Mongeon
- - Yimin Chen
 
 image:
   filename: featured
