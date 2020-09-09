@@ -16,10 +16,10 @@ all_day: false
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- x
+- Alex Mayhew
 tags: 
-#- x
-#- x
+- Memes
+- Knowledge Organization
 
 
 # Is this a featured talk? (true/false)
