@@ -21,6 +21,12 @@ image:
 
 | Time        	| Presentation                                	| location                           	|
 |-------------	|---------------------------------------------	|------------------------------------	|
-| 10:00-10:30 	| [Aboutness and Betweenness in Document Society: The United Church of Canada’s Reconciliation Documents](../../talk/Aboutness and Betweenness)<br> Author1, Author2, Author3 	| [zoomlinkhere](zoomwillbehere.com) 	|
-| 10:30-11:00 	| [Big Data, Little Direction: Towards the Co-Production of Ethical Practice in Big Data Research with Minors](../../talk/Big Data, Little Direction)<br> Authors1, Author2        	| [zoomlinkhere](zoomwillbehere.com) 	|
-| 11:00-11:30 	| [Bridging the Divide Between Disciplines: Creation of A Methodological Approach for Conducting a Systematic Literature Review Across Three Diverse Disciplines](../../talk/Bridging the Divide Between Disciplines)<br> Author4                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 10:45-10:52 	| [Fun with Memes](../../talk/FIMS2020.1Mayhew)<br> Alex Mayhew 	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 10:52-10:59 	| [Debunking Assumptions about Language in Information-Seeking](../../talk/FIMS2020.2Cornwell)<br> Sarah Cornwell        	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:07 	| [Big Data, Little Direction: Towards the Co-Production of Ethical Practice in Big Data Research with Minors](../../talk/FIMS2020.3Facca)<br> Danica Facca                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:07 	| [Dark Patterns of Account Deletion in Social Networking Sites](../../talk/FIMS2020.4Kelly)<br> Dominique Kelly                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:07 	| [Bridging the Divide Between Disciplines: Creation of A Methodological Approach for Conducting a Systematic Literature Review Across Three Diverse Disciplines ](../../talk/FIMS2020.5Delellis)<br> Nicole Delellis                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:07 	| [Teen Fan Studies in LIS](../../talk/FIMS2020.6Pard)<br> Chantale Pard                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:07 	| [Circulation & Empathy](../../talk/FIMS2020.7Nightingale)<br> Greg Nightingale                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:07 	| [Aboutness and Betweenness in Document Society: The United Church of Canada’s Reconciliation Documents](../../talk/FIMS2020.8Nord)<br> Martin Nord                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+| 11:00-11:07 	| [TBD](../../talk/FIMS2020.9Matthews)<br> Amber Matthews                  	| [zoomlinkhere](zoomwillbehere.com) 	|
