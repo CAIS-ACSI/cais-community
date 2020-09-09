@@ -1,16 +1,14 @@
 ---
-title: Aboutness and Betweenness in Document Society: The United Church of Canada’s Reconciliation Documents
+title: "Aboutness and Betweenness in Document Society: The United Church of Canada’s Reconciliation Documents"
 event: FIMS Graduate Research Day 
-event_url: https://example.org
 
-location: Source Themes HQ
-address: FIMS UWO
+location: https://example.org
 
-summary: Indexing exists in the world far beyond the library profession’s structures and practices. The role of “aboutness” at the center of indexing has become intertwined with our lives. In the "document society," we increasingly experience the world through its representations and are observed as representations ourselves. As representations of the other overtake opportunities for face-to-face contact, we may find it easier to classify those representations, and the individuals behind them, as less than human. My task is to evaluate ethic’s place in a highly indexed world. 
+summary: "Indexing exists in the world far beyond the library profession’s structures and practices. The role of “aboutness” at the center of indexing has become intertwined with our lives. In the "document society," we increasingly experience the world through its representations and are observed as representations ourselves. As representations of the other overtake opportunities for face-to-face contact, we may find it easier to classify those representations, and the individuals behind them, as less than human. My task is to evaluate ethic’s place in a highly indexed world. 
 
 Observing experiences of and responses to others through a community’s documents allows me to articulate the core problem for my research as an ethical struggle between aboutness and what I call “betweenness,” a struggle over what exactly is indexed. An information seeker uses indexed aboutness to determine whether information is relevant. “Betweenness,” however, recognizes that the document-mediated relationship may involve another actor, the other who is easily subsumed into the document’s aboutness. When that other emerges from its representations as its own self, equal to me, aboutness is surpassed by betweenness. 
 
-The community in which I observe this struggle between aboutness and betweenness play out is the United Church of Canada (UCC). I employ a case study of documents—created, indexed, and used by the UCC—as part of its reconciliation work with Indigenous people. In many cases, these documents are the primary means for individual members of the UCC community to experience Indigenous peoples. The church’s documents are therefore directly related to an ethical response to the other. The UCC's documents become reference points, prompting the members of that community to position themselves as ethical actors and index their identities according to an ethical structure, and allowing a response to the other not permitted by aboutness. 
+The community in which I observe this struggle between aboutness and betweenness play out is the United Church of Canada (UCC). I employ a case study of documents—created, indexed, and used by the UCC—as part of its reconciliation work with Indigenous people. In many cases, these documents are the primary means for individual members of the UCC community to experience Indigenous peoples. The church’s documents are therefore directly related to an ethical response to the other. The UCC's documents become reference points, prompting the members of that community to position themselves as ethical actors and index their identities according to an ethical structure, and allowing a response to the other not permitted by aboutness."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
