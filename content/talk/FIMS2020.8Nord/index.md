@@ -2,7 +2,7 @@
 title: "Aboutness and Betweenness in Document Society: The United Church of Canada’s Reconciliation Documents"
 event: FIMS Graduate Research Day 
 
-location: https://example.org
+location: www.zoomlinkwillbehere.com
 
 summary: "Indexing exists in the world far beyond the library profession’s structures and practices. The role of “aboutness” at the center of indexing has become intertwined with our lives. In the "document society," we increasingly experience the world through its representations and are observed as representations ourselves. As representations of the other overtake opportunities for face-to-face contact, we may find it easier to classify those representations, and the individuals behind them, as less than human. My task is to evaluate ethic’s place in a highly indexed world. 
 
