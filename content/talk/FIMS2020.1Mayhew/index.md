@@ -1,12 +1,10 @@
 ---
-title: x
+title: "x"
 event: FIMS Graduate Research Day
-event_url: https://example.org
 
-location: Source Themes HQ
-address: FIMS UWO
+location: https://example.org
 
-summary: x
+summary: "x"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -20,8 +18,8 @@ publishDate: "2010-01-01T00:00:00Z"
 authors:
 - x
 tags: 
-- x
-- x
+#- x
+#- x
 
 
 # Is this a featured talk? (true/false)
