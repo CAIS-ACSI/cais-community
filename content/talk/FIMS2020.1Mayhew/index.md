@@ -2,7 +2,7 @@
 title: "x"
 event: FIMS Graduate Research Day
 
-location: https://example.org
+location: www.zoomlinkwillbehere.com
 
 summary: "x"
 
