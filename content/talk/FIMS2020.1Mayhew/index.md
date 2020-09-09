@@ -1,10 +1,10 @@
 ---
-title: "x"
+title: "Fun with Memes"
 event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-summary: "x"
+summary: "Taking a memetic appraoch to Knowledge Organization (KO) may open interesting oppurtunities for exploration in library catalogues."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
