@@ -1,25 +1,25 @@
 ---
-title: "Dark Patterns of Account Deletion in Social Networking Sites"
+title: "Debunking Assumptions about Language in Information-Seeking"
 event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-abstract: The presentation will focus on “dark patterns”: user interface design techniques that attempt to manipulate users into making choices that benefit online service providers. More specifically, I will describe the early work that I have completed for a study exploring how social networking sites (SNSs) utilize dark patterns to dissuade users from deleting their accounts. In addition to summarizing the literature review and discussing the data collection process, I will present a classification scheme that identifies and organizes the various account deletion dark patterns found within a sample of popular SNSs.
+abstract: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-02T10:07:00Z"
-date_end: "2020-10-02T10:14:00Z"
+date: "2020-10-02T09:52:00Z"
+date_end: "2020-10-02T09:59:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- Dominique Kelly
+- Sarah Cornwell
 tags: 
-- Influence
-- Social Networks
+- Multilingualism
+- Information-Seeking
 
 
 # Is this a featured talk? (true/false)
