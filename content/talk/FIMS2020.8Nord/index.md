@@ -12,8 +12,8 @@ The community in which I observe this struggle between aboutness and betweenness
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-02T09:52:00Z"
-date_end: "2020-10-02T09:59:00Z"
+date: "2020-10-02T11:15:00Z"
+date_end: "2020-10-02T11:22:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
