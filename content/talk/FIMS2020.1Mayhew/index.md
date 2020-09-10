@@ -8,8 +8,8 @@ summary: Taking a memetic appraoch to Knowledge Organization (KO) may open inter
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-01T13:09:45Z"
-date_end: "2020-10-01T15:09:52Z"
+date: "2020-10-02T09:45:00Z"
+date_end: "2020-10-02T09:52:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -55,15 +55,3 @@ slides: example
 # Enable math on this page?
 math: true
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
