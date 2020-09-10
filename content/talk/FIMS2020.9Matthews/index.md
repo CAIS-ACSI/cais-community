@@ -1,10 +1,10 @@
 ---
-title: "Debunking Assumptions about Language in Information-Seeking"
+title: "TBD"
 event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-abstract: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
+abstract: TBD
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -16,10 +16,10 @@ all_day: false
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- Sarah Cornwell
+- Amber Matthews
 tags: 
-- Multilingualism
-- Information-Seeking
+- Education
+- Information
 
 
 # Is this a featured talk? (true/false)
