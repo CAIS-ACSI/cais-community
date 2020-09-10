@@ -1,10 +1,10 @@
 ---
-title: "Debunking Assumptions about Language in Information-Seeking"
+title: "Teen Fan Studies in LIS"
 event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-abstract: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
+abstract: "I plan to provide my preliminary thoughts from my Qualifying Exams reading list, where I'm reading about Teen K-Pop Fandoms and the gap this research area can fill in the body of LIS Fan Studies literature. I'll also be looking at how this ties in to LIS through the notion of public libraries as "Arbiters of Taste"."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -16,10 +16,10 @@ all_day: false
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- Sarah Cornwell
+- Chantale Pard
 tags: 
-- Multilingualism
-- Information-Seeking
+- Fan Studies
+- K-Pop Fandoms
 
 
 # Is this a featured talk? (true/false)
