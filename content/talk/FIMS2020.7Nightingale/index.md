@@ -1,10 +1,10 @@
 ---
-title: "Debunking Assumptions about Language in Information-Seeking"
+title: "Circulation & Empathy"
 event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-abstract: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
+abstract: This will be a brief overview of the theoretical framework of one of my dissertation chapters. Even in the information age, interactions with objects and their circulation remain at the centre of our lives, including in the public library's circulation department. Benjamin was critical of the psychological process of empathy (Einfühlung) by which an individual identified with or even projected their own identity into an object—physical or intellectual. Such bad empathy, as I’ve chosen to call it, results in commodity fetishism, in the former case, or an uncritical historicism that legitimizes oppressive violence, in the latter. I will discuss four different types of empathy (true, bad, ambiguous, and neutral) and how the public library can undermine bad empathy with the exchange value of the library item as commodity.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -16,10 +16,10 @@ all_day: false
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- Sarah Cornwell
+- Greg Nightingale
 tags: 
-- Multilingualism
-- Information-Seeking
+- Circulation
+- Empathy
 
 
 # Is this a featured talk? (true/false)
