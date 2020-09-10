@@ -8,8 +8,8 @@ My approach to this systematic review was modeled after stratified random sampli
 
 This three phases systematic approach across HIS, PSYC, and LIS uncovered a critical gap in literature on the topics of concussions. The low number of articles retrieved from LIS databases emphasizes the lack of discourse on exploration of concussions patients’ cognitive impairments, and the possible impact on critical thinking and reasoning. This noticeable gap in LIS databases was underscored by a critical gap in examination of concussion patients information behaviour in HIS and PSYC disciplines."
 location: www.zoomlinkwillbehere.com
-date: "2020-10-02T09:45:00Z"
-date_end: "2020-10-02T09:52:00Z"
+date: "2020-10-02T10:15:00Z"
+date_end: "2020-10-02T10:22:00Z"
 all_day: false
 event: uwo-workshop
 event_url: session-link
