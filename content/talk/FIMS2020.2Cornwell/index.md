@@ -4,22 +4,22 @@ event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-summary: Taking a memetic appraoch to Knowledge Organization (KO) may open interesting oppurtunities for exploration in library catalogues.
+summary: "Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-01T13:09:45Z"
-date_end: "2020-10-01T15:09:52Z"
+date: "2020-10-01T13:09:52Z"
+date_end: "2020-10-01T15:09:59Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- Alex Mayhew
+- Sarah Cornwell
 tags: 
-- Memes
-- Knowledge Organization
+- Monolingualism
+- Information-Seeking
 
 
 # Is this a featured talk? (true/false)
