@@ -19,8 +19,8 @@ featured: false
 authors:
   - Nicole Delellis 
 tags:
-  - "Literature Review"
-  - "Multidisciplinary Research"
+  - Literature Review
+  - Multidisciplinary Research
 links:
   - name: UWO Workshop
     url: ../event/uwo-workshop
