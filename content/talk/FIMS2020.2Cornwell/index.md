@@ -4,12 +4,12 @@ event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-summary: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
+abstract: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-01T09:52:00Z"
-date_end: "2020-10-01T09:59:00Z"
+date: "2020-10-02T09:52:00Z"
+date_end: "2020-10-02T09:59:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
