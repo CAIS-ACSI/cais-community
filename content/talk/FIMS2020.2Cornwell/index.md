@@ -1,5 +1,5 @@
 ---
-title: "Fun with Memes"
+title: "Debunking Assumptions about Language in Information-Seeking"
 event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
