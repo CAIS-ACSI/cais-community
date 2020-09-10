@@ -8,8 +8,8 @@ abstract: "The presentation will focus on “dark patterns”: user interface de
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-02T09:52:00Z"
-date_end: "2020-10-02T09:59:00Z"
+date: "2020-10-02T10:07:00Z"
+date_end: "2020-10-02T10:14:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
