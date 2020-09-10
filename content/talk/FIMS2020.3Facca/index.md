@@ -4,7 +4,7 @@ event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-abstract: The presentation will focus on “dark patterns”: user interface design techniques that attempt to manipulate users into making choices that benefit online service providers. More specifically, I will describe the early work that I have completed for a study exploring how social networking sites (SNSs) utilize dark patterns to dissuade users from deleting their accounts. In addition to summarizing the literature review and discussing the data collection process, I will present a classification scheme that identifies and organizes the various account deletion dark patterns found within a sample of popular SNSs.
+abstract: "The presentation will focus on “dark patterns”: user interface design techniques that attempt to manipulate users into making choices that benefit online service providers. More specifically, I will describe the early work that I have completed for a study exploring how social networking sites (SNSs) utilize dark patterns to dissuade users from deleting their accounts. In addition to summarizing the literature review and discussing the data collection process, I will present a classification scheme that identifies and organizes the various account deletion dark patterns found within a sample of popular SNSs."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
