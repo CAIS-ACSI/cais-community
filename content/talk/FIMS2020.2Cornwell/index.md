@@ -4,7 +4,7 @@ event: FIMS Graduate Research Day
 
 location: www.zoomlinkwillbehere.com
 
-summary: "Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy."
+summary: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
