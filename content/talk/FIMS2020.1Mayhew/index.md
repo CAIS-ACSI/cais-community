@@ -1,7 +1,7 @@
 ---
 title: "Fun with Memes"
 event: FIMS Graduate Research Day
-event_url: ../event/uwo-workshop
+event_url: ../../event/uwo-workshop
 
 location: www.zoomlinkwillbehere.com
 
@@ -32,7 +32,7 @@ image:
 
 links:
 - name: UWO Workshop
-  url: ../../event/uwo-workshop
+  url: ../event/uwo-workshop
 url_code: ""
 url_pdf: ""
 url_slides: ""
