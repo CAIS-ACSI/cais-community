@@ -1,6 +1,7 @@
 ---
 title: "Debunking Assumptions about Language in Information-Seeking"
 event: FIMS Graduate Research Day
+event_url: ../../event/uwo-workshop
 
 location: www.zoomlinkwillbehere.com
 
