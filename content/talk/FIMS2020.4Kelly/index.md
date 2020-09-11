@@ -1,6 +1,6 @@
 ---
 title: "Dark Patterns of Account Deletion in Social Networking Sites"
-event: FIMS Graduate Research Day
+event: UWO workshop
 
 location: www.zoomlinkwillbehere.com
 
@@ -31,7 +31,7 @@ image:
 
 links:
 - name: UWO Workshop
-  url: ../event/uwo-workshop
+  url: https://cais-community.netlify.app/event/uwo-workshop
 url_code: ""
 url_pdf: ""
 url_slides: ""
