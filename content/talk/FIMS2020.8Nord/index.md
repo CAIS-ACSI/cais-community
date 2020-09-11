@@ -1,6 +1,7 @@
 ---
 title: "Aboutness and Betweenness in Document Society: The United Church of Canada’s Reconciliation Documents"
 event: FIMS Graduate Research Day
+event_url: ../../event/uwo-workshop
 
 location: www.zoomlinkwillbehere.com
 
@@ -34,8 +35,8 @@ image:
   focal_point: Right
 
 links:
-- name: UWO Workshop
-  url: ../event/uwo-workshop
+# - name: UWO Workshop
+#  url: ../event/uwo-workshop
 url_code: ""
 url_pdf: ""
 url_slides: ""
