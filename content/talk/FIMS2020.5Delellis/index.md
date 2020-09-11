@@ -12,7 +12,7 @@ date: "2020-10-02T10:15:00Z"
 date_end: "2020-10-02T10:22:00Z"
 all_day: false
 event: FIMS Graduate Research Day
-event_url: session-link
+event_url: .../event/uwo-workshop
 publishDate: 2020-01-01
 draft: false
 featured: false
