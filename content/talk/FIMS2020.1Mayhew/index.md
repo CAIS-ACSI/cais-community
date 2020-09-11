@@ -31,7 +31,7 @@ image:
   focal_point: Right
 
 links:
-#- name: UWO Workshop
+# - name: UWO Workshop
 #  url: ../project/uwo-workshop
 url_code: ""
 url_pdf: ""
