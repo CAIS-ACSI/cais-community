@@ -1,6 +1,7 @@
 ---
 title: UWO workshop
 subtitle: FIMS Graduate Research Day
+summary: FIMS Graduate Research Day is the spiritual successor to the venerable FIMULAW conference. This event is being hosted by CAIS and will use the Zoom platform. Friendly reminder, this event is free of charge and you are welcome to invite attendees to any or all portions of the event.
 date: 2020-06-22T03:29:42.878Z
 draft: false
 featured: false
@@ -15,11 +16,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-### Summary
-
-FIMS Graduate Research Day is the spiritual successor to the venerable FIMULAW conference. This event is being hosted by CAIS and will use the Zoom platform. Friendly reminder, this event is free of charge and you are welcome to invite attendees to any or all portions of the event.
-
 
 ### Program
 
