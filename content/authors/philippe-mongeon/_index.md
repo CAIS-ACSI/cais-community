@@ -1,6 +1,7 @@
 ---
 title: Philippe Mongeon
 role: School of Information Management, Dalhousie University
+bio: "Philippe Mongeon is an Assistant Professor at the School of Information Management of Dalhousie University, where he runs the [Quantitative Science Studies (QSS) Lab](https://qsslab.ca). He is also the president of the Canadian Association for Information Science."
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
