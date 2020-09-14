@@ -24,7 +24,7 @@ FIMS Graduate Research Day is the spiritual successor to the venerable FIMULAW c
 
 ### Program
 
- | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       	| Presentation                                	| location                           	|
+ | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       	| Presentation                                	| location                           	|
  |-------------	|---------------------------------------------	|------------------------------------	| 
  | 09:45-09:52 	| [Fun with Memes](../../talk/FIMS2020.1Mayhew)<br> Alex Mayhew 	| [zoomlinkhere](zoomwillbehere.com) 	| 
  | 09:52-09:59 	| [Debunking Assumptions about Language in Information-Seeking](../../talk/FIMS2020.2Cornwell)<br> Sarah Cornwell | [zoomlinkhere](zoomwillbehere.com) | 
