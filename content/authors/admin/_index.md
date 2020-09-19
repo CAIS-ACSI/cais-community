@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CAIS-ACSI Community
+title: CAIS Community
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: The Community of the Canadian Association for Information Science
+# role: The Community of the Canadian Association for Information Science
 
 # Organizations/Affiliations
-organizations:
-- name: CAIS-ACSI
-  url: "http://cais-acsi.ca/"
+# organizations:
+# - name: CAIS-ACSI
+#  url: "http://cais-acsi.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: The CAIS Community supports a wide variety of reseach programs and topics of investigation
@@ -28,9 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "info@cais-acsi.ca".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/cais_acsi?lang=en
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/cais_acsi?lang=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
