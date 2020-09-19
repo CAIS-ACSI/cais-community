@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CAIS Community
+# title: CAIS Community
 
 # Username (this should match the folder name)
 authors:
@@ -25,9 +25,9 @@ bio: The CAIS Community supports a wide variety of reseach programs and topics o
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "info@cais-acsi.ca".
+# - icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "info@cais-acsi.ca".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/cais_acsi?lang=en
