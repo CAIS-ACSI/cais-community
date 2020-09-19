@@ -15,5 +15,4 @@ Danica Facca is a third-year doctoral student in Health Information Science at W
 
 Twitter: @dfaccs 
 
-Research Profile: https://www.fims.uwo.ca/people/profiles/danica_facca.html
-
+Research Profile: [Available here](https://www.fims.uwo.ca/people/profiles/danica_facca.html)
