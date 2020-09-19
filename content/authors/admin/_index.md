@@ -47,8 +47,7 @@ user_groups:
 - Visitors
 ---
 
-CAIS was incorporated in 1970 to promote the advancement of information science in Canada, and encourage and facilitate the exchange of information relating to the use, access, retrieval, organization, management, and dissemination of information.
+# CAIS Community
 
-CAIS achieves these goals through its internationally recognized journal, the Canadian Journal of Information and Library Science, and its annual conference.
-
-CAIS members include information scientists and archivists, librarians, computer scientists, documentalists, economists, educators, journalists, psychologists, and others who support its objectives.
+Welcome to the community platform of the [Canadian Association for Information Science](http://cais-acsi.ca) (CAIS).
+In line with CAIS's mission to support and promote the Library and Information Science field in Canada, the goal of the CAIS Community platform was created for CAIS members to share their work with the community and beyond.  
