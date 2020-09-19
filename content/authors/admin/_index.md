@@ -47,7 +47,7 @@ user_groups:
 - Visitors
 ---
 
-# CAIS Community
+## CAIS Community
 
 Welcome to the community platform of the [Canadian Association for Information Science](http://cais-acsi.ca) (CAIS).
 In line with CAIS's mission to support and promote the Library and Information Science field in Canada, the goal of the CAIS Community platform was created for CAIS members to share their work with the community and beyond.  
