@@ -34,4 +34,4 @@ FIMS Graduate Research Day is the spiritual successor to the venerable FIMULAW c
  | 11:00-11:07 	| [Teen Fan Studies in LIS](../../talk/FIMS2020.6Pard)<br> Chantale Pard                  	| [zoomlinkhere](zoomwillbehere.com) 	|
  | 11:07-11:14 	| [Circulation & Empathy](../../talk/FIMS2020.7Nightingale)<br> Greg Nightingale                  	| [zoomlinkhere](zoomwillbehere.com) 	|
  | 11:15-11:22 	| [Aboutness and Betweenness in Document Society: The United Church of Canada’s Reconciliation Documents](../../talk/FIMS2020.8Nord)<br> Martin Nord                  	| [zoomlinkhere](zoomwillbehere.com) 	|
- | 11:22-11:29 	| [TBD](../../talk/FIMS2020.9Matthews)<br> Amber Matthews                  	| [zoomlinkhere](zoomwillbehere.com) 	|
+ | 11:22-11:29 	| [Advancing anti-racism in public libraries for Canadian racialized youth](../../talk/FIMS2020.9Matthews)<br> Amber Matthews                  	| [zoomlinkhere](zoomwillbehere.com) 	|
