@@ -3,14 +3,14 @@ title: "Fun with Memes"
 event: FIMS Graduate Research Day
 event_url: ../../event/uwo-workshop
 
-location: www.zoomlinkwillbehere.com
+location: https://zoom.us/j/99077508905
 
 abstract: Taking a memetic appraoch to Knowledge Organization (KO) may open interesting oppurtunities for exploration in library catalogues.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-02T09:45:00Z"
-date_end: "2020-10-02T09:52:00Z"
+date: "2020-10-02T10:00:00Z"
+date_end: "2020-10-02T10:07:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
