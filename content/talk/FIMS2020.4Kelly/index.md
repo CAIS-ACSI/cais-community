@@ -3,14 +3,14 @@ title: "Dark Patterns of Account Deletion in Social Networking Sites"
 event: FIMS Graduate Research Day
 event_url: ../../event/uwo-workshop
 
-location: www.zoomlinkwillbehere.com
+location: https://zoom.us/j/99077508905
 
 abstract: "The presentation will focus on “dark patterns”: user interface design techniques that attempt to manipulate users into making choices that benefit online service providers. More specifically, I will describe the early work that I have completed for a study exploring how social networking sites (SNSs) utilize dark patterns to dissuade users from deleting their accounts. In addition to summarizing the literature review and discussing the data collection process, I will present a classification scheme that identifies and organizes the various account deletion dark patterns found within a sample of popular SNSs."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-02T10:07:00Z"
-date_end: "2020-10-02T10:14:00Z"
+date: "2020-10-02T10:22:00Z"
+date_end: "2020-10-02T10:29:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
