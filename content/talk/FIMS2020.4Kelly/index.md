@@ -5,7 +5,7 @@ event_url: ../../event/uwo-workshop
 
 location: https://zoom.us/j/99077508905
 
-abstract: "This presentation will focus on "dark patterns": user interface design techniques that manipulate users into making choices that benefit online service providers. More specifically, I will describe the early work I have completed for a study exploring how social networking sites utilize dark patterns to deter users from deleting their accounts."
+abstract: "This presentation will focus on 'dark patterns': user interface design techniques that manipulate users into making choices that benefit online service providers. More specifically, I will describe the early work I have completed for a study exploring how social networking sites utilize dark patterns to deter users from deleting their accounts."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
