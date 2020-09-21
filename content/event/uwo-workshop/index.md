@@ -18,6 +18,8 @@ image:
 
 FIMS Graduate Research Day is the spiritual successor to the venerable FIMULAW conference. This event is being hosted by CAIS and will use the Zoom platform. Friendly reminder, this event is free of charge and you are welcome to invite attendees to any or all portions of the event.
 
+The FIMS Doctoral Research Forum is being held on October 2, 2020. This event is being held in partnership with CAIS as part of the CAIS 2020 digital conference. The event features 5-7-minute live presentations by FIMS doctoral students with each session moderated by members of FIMS faculty.
+
 ### Program
 
 # | Time        	| Presentation                                	| location         #                  	|
