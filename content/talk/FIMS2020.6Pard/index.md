@@ -3,14 +3,14 @@ title: "Teen Fan Studies in LIS"
 event: FIMS Graduate Research Day
 event_url: ../../event/uwo-workshop
 
-location: www.zoomlinkwillbehere.com
+location: https://zoom.us/j/99077508905
 
 abstract: I plan to provide my preliminary thoughts from my Qualifying Exams reading list, where I'm reading about Teen K-Pop Fandoms and the gap this research area can fill in the body of LIS Fan Studies literature. I'll also be looking at how this ties in to LIS through the notion of public libraries as "Arbiters of Taste".
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-10-02T11:00:00Z"
-date_end: "2020-10-02T11:11:00Z"
+date_end: "2020-10-02T11:07:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
