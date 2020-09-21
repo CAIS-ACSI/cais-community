@@ -3,7 +3,7 @@ title: "Aboutness and Betweenness in Document Society: The United Church of Cana
 event: FIMS Graduate Research Day
 event_url: ../../event/uwo-workshop
 
-location: www.zoomlinkwillbehere.com
+location: https://zoom.us/j/99077508905
 
 abstract: "Indexing exists in the world far beyond the library profession’s structures and practices. The role of “aboutness” at the center of indexing has become intertwined with our lives. In the “document society,” we increasingly experience the world through its representations and are observed as representations ourselves. As representations of the other overtake opportunities for face-to-face contact, we may find it easier to classify those representations, and the individuals behind them, as less than human. My task is to evaluate ethic’s place in a highly indexed world. 
 
