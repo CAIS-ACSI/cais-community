@@ -7,7 +7,7 @@ The FIMS Doctoral Research Forum is being held on October 2, 2020. This event is
 date: 2020-06-22T03:29:42.878Z
 draft: false
 featured: false
-location: www.zoomlinkwillbehere.com
+location: https://zoom.us/j/99077508905
 authors:
  - Alex Mayhew
  - Amber Matthews
@@ -28,7 +28,7 @@ FIMS Graduate Research Day is the spiritual successor to the venerable FIMULAW c
 
  | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       	| Presentation                                	| location                           	|
  |-------------	|---------------------------------------------	|------------------------------------	| 
- | 09:45-10:00 	| Welcome  	| [zoomlinkhere](zoomwillbehere.com) 	| 
+ | 09:45-10:00 	| Welcome  	|  	| 
  | 10:00-10:07 	| [Fun with Memes](../../talk/FIMS2020.1Mayhew)<br> Alex Mayhew 	| [zoomlinkhere](zoomwillbehere.com) 	| 
  | 10:07-10:14 	| [Debunking Assumptions about Language in Information-Seeking](../../talk/FIMS2020.2Cornwell)<br> Sarah Cornwell | [zoomlinkhere](zoomwillbehere.com) | 
  | 10:15-10:22 	| [Big Data, Little Direction: Towards the Co-Production of Ethical Practice in Big Data Research with Minors](../../talk/FIMS2020.3Facca)<br> Danica Facca                  	| [zoomlinkhere](zoomwillbehere.com) |
