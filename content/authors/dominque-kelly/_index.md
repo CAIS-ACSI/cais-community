@@ -1,5 +1,5 @@
 ---
-title: Dominque Kelly
+title: Dominique Kelly
 role: Faculty of Information and Media Studies, Western University
 avatar_filename: avatar.jpg
 bio: 
