@@ -10,7 +10,7 @@ abstract: Monolingualism is often considered the "default" status in North Ameri
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-10-02T10:07:00Z"
-date_end: "2020-10-02T110:14:00Z"
+date_end: "2020-10-02T10:14:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
