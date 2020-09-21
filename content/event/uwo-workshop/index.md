@@ -4,7 +4,7 @@ subtitle: FIMS Graduate Research Day
 date: 2020-10-02T03:00:00
 draft: false
 featured: false
-location: www.zoomlinkwillbehere.com
+location: https://zoom.us/j/99077508905
 authors:
  - Alex Mayhew
  - Amber Matthews
