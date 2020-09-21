@@ -20,7 +20,7 @@ authors:
 - Amber Matthews
 tags: 
 - Education
-- Information
+- Racialized Youth
 
 
 # Is this a featured talk? (true/false)
@@ -31,7 +31,7 @@ image:
   focal_point: Right
 
 links:
- - name: UWO Workshop
+ - name: FIMS Graduate Research Day
    url: ../event/uwo-workshop
 url_code: ""
 url_pdf: ""
