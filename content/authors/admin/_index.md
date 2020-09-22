@@ -47,7 +47,7 @@ user_groups:
 - Visitors
 ---
 
-# CAIS Community
+# CAIS Community (beta)
 
-Welcome to the community platform of the [Canadian Association for Information Science](http://cais-acsi.ca) (CAIS).
+Welcome to the beta version of the CAIS community platform of the [Canadian Association for Information Science](http://cais-acsi.ca) (CAIS).
 In line with CAIS's mission to support and promote the Library and Information Science field in Canada, the goal of the CAIS Community site is to provide CAIS members with a platform to share their work with the community and beyond.  
