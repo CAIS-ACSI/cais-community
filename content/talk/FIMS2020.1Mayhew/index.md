@@ -33,6 +33,8 @@ image:
 links:
  - name: FIMS Graduate Research Day
    url: ../event/uwo-workshop
+ - name: Slides
+   url: https://docs.google.com/presentation/d/1xO2z57P1Aw5ZNhWqTubdpsl_Y8X3rsiT24hSlng-mPs/edit?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
