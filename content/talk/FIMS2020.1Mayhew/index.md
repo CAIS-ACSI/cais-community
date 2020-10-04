@@ -35,7 +35,7 @@ links:
    url: ../event/uwo-workshop
  - name: Slides
    url: https://docs.google.com/presentation/d/1xO2z57P1Aw5ZNhWqTubdpsl_Y8X3rsiT24hSlng-mPs/edit?usp=sharing
- - video:
+ - name: Video
    url: "https://www.youtube.com/embed/xrpwyadWDhg"
 url_code: ""
 url_pdf: ""
