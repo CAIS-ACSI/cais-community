@@ -33,6 +33,8 @@ image:
 links:
  - name: FIMS Graduate Research Day
    url: ../event/uwo-workshop
+ - name: Video
+   url: "https://www.youtube.com/embed/R7F1yb5BJRc"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -56,3 +58,5 @@ slides: example
 # Enable math on this page?
 math: true
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7F1yb5BJRc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
