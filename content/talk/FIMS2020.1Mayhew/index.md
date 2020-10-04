@@ -35,6 +35,8 @@ links:
    url: ../event/uwo-workshop
  - name: Slides
    url: https://docs.google.com/presentation/d/1xO2z57P1Aw5ZNhWqTubdpsl_Y8X3rsiT24hSlng-mPs/edit?usp=sharing
+ - video:
+   url: "https://www.youtube.com/embed/xrpwyadWDhg"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -58,3 +60,5 @@ slides: example
 # Enable math on this page?
 math: true
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xrpwyadWDhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
