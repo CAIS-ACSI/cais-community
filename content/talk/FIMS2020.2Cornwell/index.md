@@ -3,7 +3,7 @@ title: "Debunking Assumptions about Language in Information-Seeking"
 event: FIMS Graduate Research Day
 event_url: ../../event/uwo-workshop
 
-location: "https://zoom.us/j/99077508905"
+# location: "https://zoom.us/j/99077508905"
 
 abstract: Monolingualism is often considered the "default" status in North America, and so too in LIS information-seeking scholarship. I present a few quick exemplars from my thesis-in-progress of highly-skilled Multilinguals' Everyday Information Seeking that complicate monolingual assumptions about language skills, information availability, and university pedagogy.
 
