@@ -3,7 +3,7 @@ title: "Fun with Memes"
 event: FIMS Graduate Research Day
 event_url: ../../event/uwo-workshop
 
-location: https://zoom.us/j/99077508905
+# location: https://zoom.us/j/99077508905
 
 abstract: Taking a memetic appraoch to Knowledge Organization (KO) may open interesting oppurtunities for exploration in library catalogues.
 
