@@ -6,7 +6,9 @@ date: 2020-06-02T09:45:00.878Z
 draft: false
 featured: false
 location: Online
-location_url: https://ebsi-sis.ebsi.umontreal.ca/
+location_url: 
+external_url: "https://ebsi-sis.ebsi.umontreal.ca/"
+
 authors:
  - Shahrazad Rahmé
  - Virginie Wenglenski
