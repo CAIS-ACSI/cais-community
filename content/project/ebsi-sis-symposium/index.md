@@ -5,8 +5,7 @@ summary: "The EBSI-SIS Symposium is an annual event organized by the student of 
 date: 2020-06-02T09:45:00.878Z
 draft: false
 featured: false
-location: Online
-location_url: https://ebsi-sis.ebsi.umontreal.ca/
+external_link: https://ebsi-sis.ebsi.umontreal.ca/
 authors:
  - Shahrazad Rahmé
  - Virginie Wenglenski
