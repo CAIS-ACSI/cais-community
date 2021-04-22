@@ -21,8 +21,8 @@ image:
 ---
 
 ### Program
-| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       	| Presentation| Title and presentor | Presentation 
- |-------------	|--------------------------------------------- | 
+| Time | Presentation| Title and presentor | Presentation 
+ |-------------	|-------------- | -------------------------- | ------------- | 
  | 8h30 | Mot de bienvenue  | Lyne Da Sylva (Directrice de l’École de bibliothéconomie et des sciences de l'information, Université de Montréal, Québec, Canada | Welcome
  | 8h35 | Présentation orale (20 min) | Assistive technology in the library services of Lebanese universities for students with visual needs | Farah Sbeiti (Lebanese University, Lebanon) | Oral presentation (20 min)
  | 9h00 | Affiche (10 min) | Identité militante, pratiques et normes archivistiques : le cas des Instituts CGT d'histoire sociale fédéraux de 1982 à nos jours | Rachel Guérin (Université d’Angers, France) | Poster (10 min)
@@ -36,7 +36,7 @@ image:
  | 11h20 | Affiche (10 min) | L’identité professionnelle des bibliothécaires publiques : changements et réinventions pour répondre aux nouvelles réalités de la profession. | Stéphanie Courchesne (Université de Montréal, Québec, Canada) | Poster (10 min)
  | 11h35 | Présentation orale (20 min) | The Cognitive Biases that Emerge from Search as Learning  | Alamir Novin (University of British Columbia, British Columbia, Canada) | Oral presentation (20 min)
  | 12h00 | Conférencier invité (30 min) | The most innovative methods are sometimes the simplest | Juan Pablo Alperin - Assistant Professor at the School of Publishing, Associate Director of Research of the Public Knowledge Project, Co-director of the Scholarly Communications Lab </br> (Simon Fraser University, British Colombia, Canada) | Guest speaker (30 min)
- | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min)
+ | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min) | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min) | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min) | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min)
  | 13h25 | Présentation orale (20 min) | Measuring and Evaluating Performance in University Libraries Using ISO 11620-2014: Lebanese University – Library of Medical Sciences as a Model  | Hajar Zein (Lebanese University, Lebanon) | Oral presentation (20 min)
  | 13h50 | Présentation orale (20 min) | Social Media, Grindr, and PrEP: Sexual health literacy for men who have sex with men in the Internet age | Gavin Goodwin (McGill University, Quebec, Canada) | Oral presentation (20 min) 
  | 14h15 | Affiche (10 min) | Records-in-Contexts, quand la description archivistique rencontre l’approche ontologique : quel est l’intérêt de la représentation graphique pour la compréhension et l’exploitation des ressources archivistiques ? | Estelle Cepparo (Université d’Angers, France) | Poster (10 min)
