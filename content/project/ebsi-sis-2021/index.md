@@ -21,6 +21,8 @@ image:
 ---
 
 ### Program
+| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       	| Presentation| Title and presentor | Presentation 
+ |-------------	|--------------------------------------------- | 
  | 8h30 | Mot de bienvenue  | Lyne Da Sylva (Directrice de l’École de bibliothéconomie et des sciences de l'information, Université de Montréal, Québec, Canada | Welcome
  | 8h35 | Présentation orale (20 min) | Assistive technology in the library services of Lebanese universities for students with visual needs | Farah Sbeiti (Lebanese University, Lebanon) | Oral presentation (20 min)
  | 9h00 | Affiche (10 min) | Identité militante, pratiques et normes archivistiques : le cas des Instituts CGT d'histoire sociale fédéraux de 1982 à nos jours | Rachel Guérin (Université d’Angers, France) | Poster (10 min)
