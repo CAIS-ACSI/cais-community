@@ -24,7 +24,7 @@ image:
 | Time | Presentation Type | Title and Presentor
  |-------------	|-------------- | -------------------------- |  
  | 8h30 | Mot de bienvenue</br>Welcome  | Lyne Da Sylva (Directrice de l’École de bibliothéconomie et des sciences de l'information, Université de Montréal, Québec, Canada
- | 8h35 | Présentation orale (20 min)</br>Oral presentation (20 min) | Assistive technology in the library services of Lebanese universities for students with visual needs </br> Farah Sbeiti (Lebanese University, Lebanon) 
+ | 8h35 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Assistive technology in the library services of Lebanese universities for students with visual needs](../../talk/EBSI-SIS2021.0Sylva) </br> Farah Sbeiti (Lebanese University, Lebanon) 
  | 9h00 | Affiche (10 min)</br>Poster (10 min) | Identité militante, pratiques et normes archivistiques : le cas des Instituts CGT d'histoire sociale fédéraux de 1982 à nos jours </br> Rachel Guérin (Université d’Angers, France) 
  | 9h15 | Présentation orale (20 min)</br>Oral presentation (20 min) | Le fardeau des frais de traitement des articles sur les universités canadiennes </br> Marc-André Simard (Université de Montréal, Québec, Canada) 
  | 9h30 | Présentation éclair (5 min)</br>Flash presentation (5 min) | Standing on the shoulders of giants: a review of literature reviews on information behaviour </br> Xiaoqian Zhang (McGill University, Quebec, Canada) 
