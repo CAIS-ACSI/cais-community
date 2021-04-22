@@ -21,7 +21,7 @@ image:
 ---
 
 ### Program
-| Time | Presentation| Title and presentor | Presentation 
+| Time | Presentation Type| Title  | Presentor 
  |-------------	|-------------- | -------------------------- | ------------- | 
  | 8h30 | Mot de bienvenue  | Lyne Da Sylva (Directrice de l’École de bibliothéconomie et des sciences de l'information, Université de Montréal, Québec, Canada | Welcome
  | 8h35 | Présentation orale (20 min) | Assistive technology in the library services of Lebanese universities for students with visual needs | Farah Sbeiti (Lebanese University, Lebanon) | Oral presentation (20 min)
