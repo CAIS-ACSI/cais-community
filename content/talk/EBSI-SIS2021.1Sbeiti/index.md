@@ -4,8 +4,6 @@ event: 13th EBSI-SIS Symposium
 event_url: ../../event/ebsi-sis-2021
 
 links:
- - name: FIMS Graduate Research Day
-   url: ../event/ebsi-sis-2021/
  - name: Slides
    url: https://docs.google.com/presentation/d/1ji4BorO-uTcejIKnFbXPzDAB9S956tqV/edit
 
