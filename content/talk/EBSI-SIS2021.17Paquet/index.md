@@ -33,7 +33,7 @@ links:
    url: ../event/ebsi-sis-2021
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://drive.google.com/file/d/19DgUjhoSkqtK4JtbN3r3bLNBkwam-9BF/view?usp=sharing"
 url_video: ""
 
 # Events (optional).
