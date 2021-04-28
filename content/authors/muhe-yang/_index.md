@@ -1,7 +1,10 @@
 ---
 title: "Muhe Yang"
-role: McGill University, Quebec, Canada
-bio: "Philips Ayeni is a PhD Candidate at McGill School of Information Studies, Montreal Canada. With a background in library and information studies, he has worked as a librarian in both school and special (Law) libraries in Nigeria. In Canada, he has worked as teaching and research assistant, and is currently working to develop a data repository for iMPACTS’ SSHRC funded project. He is passionate about the current development in scholarly communication, hence focusing his research on the open access scholarly communication practices of researchers in Canada. He is the current Chair of the Association for Information Science & Technology, McGill Student chapter."
+role: School of Information Studies, McGill University
+bio: "Je suis doctorante en études de l'information. Mes recherches portent sur l'interaction homme-machine et la technologie persuasive pour la santé. C’est une excellente occasion pour moi de m'impliquer dans l'organisation de ce symposium et de contribuer à la communauté de recherche. 
+
+I am a doctoral student in information studies. My research focuses on human computer interaction and health persuasive technology. It is a great opportunity for me to get involved in organizing this symposium and contribute to the research community.
+"
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
@@ -9,4 +12,6 @@ user_groups:
 ---
 
 # Bio
-Philips Ayeni is a PhD Candidate at McGill School of Information Studies, Montreal Canada. With a background in library and information studies, he has worked as a librarian in both school and special (Law) libraries in Nigeria. In Canada, he has worked as teaching and research assistant, and is currently working to develop a data repository for iMPACTS’ SSHRC funded project. He is passionate about the current development in scholarly communication, hence focusing his research on the open access scholarly communication practices of researchers in Canada. He is the current Chair of the Association for Information Science & Technology, McGill Student chapter.
+Je suis doctorante en études de l'information. Mes recherches portent sur l'interaction homme-machine et la technologie persuasive pour la santé. C’est une excellente occasion pour moi de m'impliquer dans l'organisation de ce symposium et de contribuer à la communauté de recherche. 
+
+I am a doctoral student in information studies. My research focuses on human computer interaction and health persuasive technology. It is a great opportunity for me to get involved in organizing this symposium and contribute to the research community.
