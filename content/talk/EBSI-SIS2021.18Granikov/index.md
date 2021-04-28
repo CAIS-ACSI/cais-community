@@ -19,7 +19,7 @@ all_day: false
 publishDate: "2010-01-01T00:00:00Z"
 
 authors:
-- Vera Garnikov
+- Vera Granikov
 
 # Is this a featured talk? (true/false)
 featured: false
