@@ -1,5 +1,5 @@
 ---
-title: "Michelle Massuto"
+title: "Michelle Mussuto"
 role: School of Informatioin Studies, McGill University
 bio: "Je suis membre de la Section étudiante de l'Université McGill de l'Association des sciences et technologies de l'information (ASIS&T) et j'en suis le secrétaire depuis un an. Je suis étudiante à la maîtrise en études de l'information. Mon intérêt de recherche comprend l'utilisation de la méthodologie photovoice pour découvrir les comportements d'information des individus dans les communautés à économie à ressource unique. 
 </br>
