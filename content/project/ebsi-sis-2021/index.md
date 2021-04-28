@@ -23,7 +23,7 @@ image:
 site web officiel  / official website : [https://ebsi-sis.ebsi.umontreal.ca/](https://ebsi-sis.ebsi.umontreal.ca/)
 
 ### Programme / Program
-| Time | Presentation Type | Title and Presentor
+| Time | Presentation Type | Title and Presenter
  |-------------	|-------------- | -------------------------- |  
  | 8h30 | Mot de bienvenue</br>Welcome  | [Opening Remarks](../../talk/EBSI-SIS2021.0Sylva) Lyne Da Sylva (Directrice de l’École de bibliothéconomie et des sciences de l'information, Université de Montréal, Québec, Canada
  | 8h35 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Assistive technology in the library services of Lebanese universities for students with visual needs](../../talk/EBSI-SIS2021.1Sbeiti) </br> Farah Sbeiti (Lebanese University, Lebanon) 
