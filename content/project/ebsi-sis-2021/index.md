@@ -20,6 +20,8 @@ image:
   preview_only: false
 ---
 
+site web officiel  / official website : [https://ebsi-sis.ebsi.umontreal.ca/](https://ebsi-sis.ebsi.umontreal.ca/)
+
 ### Programme / Program
 | Time | Presentation Type | Title and Presentor
  |-------------	|-------------- | -------------------------- |  
