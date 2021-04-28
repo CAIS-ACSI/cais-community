@@ -1,7 +1,10 @@
 ---
 title: "Philips Ayeni"
-role: McGill University, Quebec, Canada
-bio: "Philips Ayeni is a PhD Candidate at McGill School of Information Studies, Montreal Canada. With a background in library and information studies, he has worked as a librarian in both school and special (Law) libraries in Nigeria. In Canada, he has worked as teaching and research assistant, and is currently working to develop a data repository for iMPACTS’ SSHRC funded project. He is passionate about the current development in scholarly communication, hence focusing his research on the open access scholarly communication practices of researchers in Canada. He is the current Chair of the Association for Information Science & Technology, McGill Student chapter."
+role: School of Information Studies, McGill University
+bio: "Je suis doctorant en études de l’information. Mes recherches portent sur l’évaluation des pratiques de communication savante en libre accès des chercheurs au Canada. En tant que président actuel de la Section étudiante de l’Association des sciences et technologies de l’information (ASIS&T) de McGill, je suis heureux de mettre à profit mes expériences d’organisation d’événements dans la planification de ce symposium. 
+</br></br>
+I am a PhD Candidate in Information Studies. My research focuses on assessing open access scholarly communication practices of researchers in Canada. As the current Chair for the McGill Student Chapter of Association for Information Science and Technology (ASIS&T), I am pleased to bring my events organization experiences to bear in planning for this symposium.
+"
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
@@ -9,4 +12,6 @@ user_groups:
 ---
 
 # Bio
-Philips Ayeni is a PhD Candidate at McGill School of Information Studies, Montreal Canada. With a background in library and information studies, he has worked as a librarian in both school and special (Law) libraries in Nigeria. In Canada, he has worked as teaching and research assistant, and is currently working to develop a data repository for iMPACTS’ SSHRC funded project. He is passionate about the current development in scholarly communication, hence focusing his research on the open access scholarly communication practices of researchers in Canada. He is the current Chair of the Association for Information Science & Technology, McGill Student chapter.
+Je suis doctorant en études de l’information. Mes recherches portent sur l’évaluation des pratiques de communication savante en libre accès des chercheurs au Canada. En tant que président actuel de la Section étudiante de l’Association des sciences et technologies de l’information (ASIS&T) de McGill, je suis heureux de mettre à profit mes expériences d’organisation d’événements dans la planification de ce symposium. 
+
+I am a PhD Candidate in Information Studies. My research focuses on assessing open access scholarly communication practices of researchers in Canada. As the current Chair for the McGill Student Chapter of Association for Information Science and Technology (ASIS&T), I am pleased to bring my events organization experiences to bear in planning for this symposium.
