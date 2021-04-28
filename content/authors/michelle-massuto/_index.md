@@ -1,7 +1,10 @@
 ---
 title: "Michelle Massuto"
-role: McGill University, Quebec, Canada
-bio: "Philips Ayeni is a PhD Candidate at McGill School of Information Studies, Montreal Canada. With a background in library and information studies, he has worked as a librarian in both school and special (Law) libraries in Nigeria. In Canada, he has worked as teaching and research assistant, and is currently working to develop a data repository for iMPACTS’ SSHRC funded project. He is passionate about the current development in scholarly communication, hence focusing his research on the open access scholarly communication practices of researchers in Canada. He is the current Chair of the Association for Information Science & Technology, McGill Student chapter."
+role: School of Informatioin Studies, McGill University
+bio: "Je suis membre de la Section étudiante de l'Université McGill de l'Association des sciences et technologies de l'information (ASIS&T) et j'en suis le secrétaire depuis un an. Je suis étudiante à la maîtrise en études de l'information. Mon intérêt de recherche comprend l'utilisation de la méthodologie photovoice pour découvrir les comportements d'information des individus dans les communautés à économie à ressource unique. 
+
+I am member of the McGill University Student Chapter of the Association for Information Science and Technology (ASIS&T) and has been the chapter's secretary for the past year. I am a master student in Information Studies. My research interest includes using the photovoice methodology to uncover the information behaviors of individuals in single-resource economy communities.
+"
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
@@ -9,4 +12,6 @@ user_groups:
 ---
 
 # Bio
-Philips Ayeni is a PhD Candidate at McGill School of Information Studies, Montreal Canada. With a background in library and information studies, he has worked as a librarian in both school and special (Law) libraries in Nigeria. In Canada, he has worked as teaching and research assistant, and is currently working to develop a data repository for iMPACTS’ SSHRC funded project. He is passionate about the current development in scholarly communication, hence focusing his research on the open access scholarly communication practices of researchers in Canada. He is the current Chair of the Association for Information Science & Technology, McGill Student chapter.
+Je suis membre de la Section étudiante de l'Université McGill de l'Association des sciences et technologies de l'information (ASIS&T) et j'en suis le secrétaire depuis un an. Je suis étudiante à la maîtrise en études de l'information. Mon intérêt de recherche comprend l'utilisation de la méthodologie photovoice pour découvrir les comportements d'information des individus dans les communautés à économie à ressource unique. 
+
+I am member of the McGill University Student Chapter of the Association for Information Science and Technology (ASIS&T) and has been the chapter's secretary for the past year. I am a master student in Information Studies. My research interest includes using the photovoice methodology to uncover the information behaviors of individuals in single-resource economy communities.
