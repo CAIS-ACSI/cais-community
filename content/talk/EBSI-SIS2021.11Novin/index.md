@@ -32,7 +32,7 @@ links:
  - name: 13th EBSI-SIS Symposium
    url: ../event/ebsi-sis-2021
 url_code: ""
-url_pdf: ""
+url_pdf: "https://drive.google.com/file/d/1tQPTz8h6m18atWTekDyfth2fohbnrJEo/view?usp=sharing"
 url_slides: ""
 url_video: ""
 
