@@ -10,7 +10,7 @@ location_url: https://ebsi-sis.ebsi.umontreal.ca/
 location_url: https://zoom.us/j/91952595188
 
 authors:
- - Shahrazad Rahmé
+ - Shahrazad Rahme
  - Virginie Wenglenski
  - Philips Ayeni
  - Michelle Mussuto
