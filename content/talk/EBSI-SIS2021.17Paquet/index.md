@@ -31,9 +31,9 @@ featured: false
 links:
  - name: 13th EBSI-SIS Symposium
    url: ../event/ebsi-sis-2021
-url_code: ""
-url_pdf: ""
-url_slides: "https://drive.google.com/file/d/19DgUjhoSkqtK4JtbN3r3bLNBkwam-9BF/view?usp=sharing"
+ - name: PDF
+   url: "OA-in-Canada_flash-presentation_vp_vf.pdf"
+   url_slides: "https://drive.google.com/file/d/19DgUjhoSkqtK4JtbN3r3bLNBkwam-9BF/view?usp=sharing"
 url_video: ""
 
 # Events (optional).
