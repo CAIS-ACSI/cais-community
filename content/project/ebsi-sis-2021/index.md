@@ -20,10 +20,8 @@ image:
   preview_only: false
 ---
 
-### YouTube playlist / Liste de lecture sur YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-site web officiel  / official website : [https://ebsi-sis.ebsi.umontreal.ca/](https://ebsi-sis.ebsi.umontreal.ca/)
+Site web officiel / Official website : [https://ebsi-sis.ebsi.umontreal.ca/](https://ebsi-sis.ebsi.umontreal.ca/)
+[YouTube playlist / List de lecture YouTube](https://www.youtube.com/watch?v=9Ieh6ogJBxw&list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW&ab_channel=CAISACSI)
 
 ### Programme / Program
 | Time | Presentation Type | Title and Presenter
