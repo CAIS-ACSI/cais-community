@@ -21,7 +21,8 @@ image:
 ---
 
 Site web officiel / Official website : [https://ebsi-sis.ebsi.umontreal.ca/](https://ebsi-sis.ebsi.umontreal.ca/)
-[YouTube playlist / List de lecture YouTube](https://www.youtube.com/watch?v=9Ieh6ogJBxw&list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW&ab_channel=CAISACSI)
+
+[YouTube playlist / Liste de lecture YouTube](https://www.youtube.com/watch?v=9Ieh6ogJBxw&list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW&ab_channel=CAISACSI)
 
 ### Programme / Program
 | Time | Presentation Type | Title and Presenter
