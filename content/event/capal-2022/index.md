@@ -8,9 +8,6 @@ featured: false
 location: https://zoom.us/j/99077508905
 location_url: https://zoom.us/j/99077508905
 authors:
- - Kelly Keus
- - Sarah Brown
- - Cal Murgu
 
 image:
   filename: featured
