@@ -19,7 +19,7 @@ subtitle = ""
   count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
 
   # Show a "See all pages" link underneath the featured content?
   link_to_archive = false
