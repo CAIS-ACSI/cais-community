@@ -13,7 +13,7 @@ subtitle = ""
   page_type = "project"
   
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
