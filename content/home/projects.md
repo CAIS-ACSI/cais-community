@@ -20,11 +20,8 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
 
-  # [[content.filter_button]]
+  [[content.filter_button]]
   #   name = "All"
   tag = "*"
   
