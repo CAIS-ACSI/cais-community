@@ -4,7 +4,7 @@ subtitle: Canadian Association of Professional Academic Librarians (CAPAL) Confe
 summary: "Canadian Association of Professional Academic Librarians (CAPAL): Call for Proposals / Appel à contributions"
 date: 2022-06-02T09:45:00.878Z
 draft: false
-featured: true
+featured: false
 location: https://zoom.us/j/99077508905
 location_url: https://zoom.us/j/99077508905
 authors:
