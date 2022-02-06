@@ -15,6 +15,12 @@ authors:
  - Michelle Mussuto
  - Muhe Yang
 
+links:
+ - name: Site web officiel / Official website
+   url: https://ebsi-sis.ebsi.umontreal.ca/
+ - name: YouTube playlist / Liste de lecture YouTube
+   url: https://www.youtube.com/watch?v=9Ieh6ogJBxw&list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW&ab_channel=CAISACSI
+   
 image:
   filename: featured
   focal_point: Smart
