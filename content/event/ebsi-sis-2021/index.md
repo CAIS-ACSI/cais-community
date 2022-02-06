@@ -5,9 +5,8 @@ summary: "The EBSI-SIS Symposium is an annual event organized by the student of 
 date: 2021-06-02T09:45:00.878Z
 draft: false
 featured: false
-location: Online
+location: /event/ebsi-sis-2021/
 location_url: https://ebsi-sis.ebsi.umontreal.ca/
-location_url: https://zoom.us/j/91952595188
 
 authors:
  - Shahrazad Rahme
@@ -16,12 +15,6 @@ authors:
  - Michelle Mussuto
  - Muhe Yang
 
-links:
- - name: Site web officiel / Official website
-   url: https://ebsi-sis.ebsi.umontreal.ca/
- - name: YouTube playlist / Liste de lecture YouTube
-   url: https://www.youtube.com/watch?v=9Ieh6ogJBxw&list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW&ab_channel=CAISACSI
-   
 image:
   filename: featured
   focal_point: Smart
