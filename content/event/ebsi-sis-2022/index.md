@@ -20,8 +20,6 @@ authors:
 links:
  - name: Site web officiel / Official website
    url: https://ebsi-sis.ebsi.umontreal.ca/
- - name: YouTube playlist / Liste de lecture YouTube
-   url: https://www.youtube.com/watch?v=9Ieh6ogJBxw&list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW&ab_channel=CAISACSI
    
 image:
   filename: featured
@@ -29,40 +27,45 @@ image:
   preview_only: false
  
 ---
+We are pleased to announce the 2022 EBSI-SIS Symposium in Information Sciences, jointly organized by the School of Information Studies (SIS) of the McGill University and the School of Library and Information Sciences (EBSI) of the University of Montreal. The event will take place virtually on April 28, 2022. For 14 years, this annual symposium has provided a unique opportunity for master’s and doctoral students to present their research and to meet their peers. Embracing the possibilities offered by virtual meetings, we are encouraging students from other institutions, both Canadian and international, to present and participate.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vhH43sq2Vvfo_6lkgtj8dW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The symposium is free and open to all
+Cash prizes for : 
+* Best Presentations (Master’s & Doctoral) $100
+* Best Posters (Master’s & Doctoral) $50
 
----
+Call for papers : The symposium committee invites master’s students, doctoral students, and postdoctoral researchers in information science and related research fields to submit proposals for poster (10 minutes), flash (5 minutes and 3 slides maximum), or paper (20 minutes) presentations. All presentations will be followed by a brief question period. Varied perspectives and methodologies, as well as ongoing research projects are welcome. Authors are asked to submit their proposal through the following Google form by March 18, 2022. Decisions will be communicated to authors by April 1, 2022. All presenters must also register for the symposium.
 
-### Program
-| Time | Presentation Type | Title and Presentor
- |-------------	|-------------- | -------------------------- |  
- | 8h30 | Mot de bienvenue</br>Welcome  | [Opening Remarks](../../talk/EBSI-SIS2021.0Sylva) Lyne Da Sylva (Directrice de l’École de bibliothéconomie et des sciences de l'information, Université de Montréal, Québec, Canada
- | 8h35 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Assistive technology in the library services of Lebanese universities for students with visual needs](../../talk/EBSI-SIS2021.1Sbeiti) </br> Farah Sbeiti (Lebanese University, Lebanon) 
- | 9h00 | Affiche (10 min)</br>Poster (10 min) | [Identité militante, pratiques et normes archivistiques : le cas des Instituts CGT d'histoire sociale fédéraux de 1982 à nos jours](../../talk/EBSI-SIS2021.2Guerin) </br> Rachel Guérin (Université d’Angers, France) 
- | 9h15 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Le fardeau des frais de traitement des articles sur les universités canadiennes](../../talk/EBSI-SIS2021.3Simard) </br> Marc-André Simard (Université de Montréal, Québec, Canada) 
- | 9h30 | Présentation éclair (5 min)</br>Flash presentation (5 min) | [Standing on the shoulders of giants: a review of literature reviews on information behaviour](../../talk/EBSI-SIS2021.4Zhang) </br> Xiaoqian Zhang (McGill University, Quebec, Canada) 
- | 9h40 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Information Literacy in Nova Scotia: Systematic Mapping of Learning Outcomes](../../talk/EBSI-SIS2021.5Lynds) </br> Cora-Lynn Munroe-Lynds (Dalhousie University, Nova Scotia, Canada) | 
- | 10h05 | Affiche (10 min)</br>Poster (10 min) | [Les archives orales comme source d’histoire récente : pratiques de collecte, usages et enjeux mémoriels. Le cas des témoignages de la Résistance des organes interministériels d’histoire de la guerre](../../talk/EBSI-SIS2021.6Arendo) </br> Agnès Arendo (Université d’Angers, France) 
- | 10h20 | Présentation orale (20 min)</br>Oral presentation (20 min) | [An Interdisciplinary Approach to False Information and Today’s Information Professional](../../talk/EBSI-SIS2021.7Woodhouse) </br> Chelsea Woodhouse (McGill University, Quebec, Canada) 
- | 10h45 | Présentation éclair (5 min)</br>Flash presentation (5 min) | [Where the money flows and revenue grows: analyzing open access article processing charges](../../talk/EBSI-SIS2021.8Butler) </br> Leigh-Ann Butler (University of Ottawa, Ontario, Canada)
- | 10h55 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Culture de l’information des doctorants au Liban](../../talk/EBSI-SIS2021.9Geagea) </br> Hanady Geagea (Lebanese University, Lebanon)
- | 11h20 | Affiche (10 min)</br>Poster (10 min) | [L’identité professionnelle des bibliothécaires publiques : changements et réinventions pour répondre aux nouvelles réalités de la profession](../../talk/EBSI-SIS2021.10Courchesne) </br> Stéphanie Courchesne (Université de Montréal, Québec, Canada)
- | 11h35 | Présentation orale (20 min)</br>Oral presentation (20 min) | [The Cognitive Biases that Emerge from Search as Learning](../../talk/EBSI-SIS2021.11Novin) </br> Alamir Novin (University of British Columbia, British Columbia, Canada) 
- | 12h00 | Conférencier invité (30 min)</br>Guest speaker (30 min) | [The most innovative methods are sometimes the simplest](../../talk/EBSI-SIS2021.12alperin) </br> Juan Pablo Alperin - Assistant Professor at the School of Publishing, Associate Director of Research of the Public Knowledge Project, Co-director of the Scholarly Communications Lab </br> (Simon Fraser University, British Colombia, Canada)
- | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min) | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min) | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min) | PAUSE DÉJEUNER/DINER – LUNCH TIME (55 min)
- | 13h25 | Présentation orale (20 min)</br> Oral presentation (20 min) | [Measuring and Evaluating Performance in University Libraries Using ISO 11620-2014: Lebanese University – Library of Medical Sciences as a Model](../../talk/EBSI-SIS2021.13Zein) </br> Hajar Zein (Lebanese University, Lebanon)
- | 13h50 | Présentation orale (20 min)</br> Oral presentation (20 min)  | [Social Media, Grindr, and PrEP: Sexual health literacy for men who have sex with men in the Internet age](../../talk/EBSI-SIS2021.14Goodwin) </br> Gavin Goodwin (McGill University, Quebec, Canada)
- | 14h15 | Affiche (10 min)</br>Poster (10 min) | [Records-in-Contexts, quand la description archivistique rencontre l’approche ontologique : quel est l’intérêt de la représentation graphique pour la compréhension et l’exploitation des ressources archivistiques ?](../../talk/EBSI-SIS2021.15Cepparo) </br> Estelle Cepparo (Université d’Angers, France) 
- | 14h30 | Présentation orale (20 min)</br>Oral presentation (20 min) | [La gestion de l’information dans une perspective ouverte : un nouveau « contrat » ?](../../talk/EBSI-SIS2021.16Alaoui) </br> Siham Alaoui (Université de Laval, Québec, Canada)
- | 14h55 | Présentation éclair (5 min)</br>Flash presentation (5 min) | [La longue route vers le libre-accès au Canada et le cas particulier du Québec](../../talk/EBSI-SIS2021.17Paquet) </br> Virginie Paquet (Université de Montréal, Québec, Canada) 
- | 15h05 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Collaboration in keeping up to date: Preliminary results of a framework synthesis and a qualitative case study](../../talk/EBSI-SIS2021.18Granikov)  </br> Vera Granikov (McGill University, Quebec, Canada)  
- | 15h30 | Affiche (10 min)</br> Poster (10 min)| [Indexation automatique et repérage des images numériques](../../talk/EBSI-SIS2021.19Rahme) </br> Shahrazad Rahmé (Université de Montréal, Québec, Canada) 
- | 15h45 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Value perceptions of information sources among academic librarians](../../talk/EBSI-SIS2021.20Yeboah)  </br> Richmond Yeboah (McGill University, Quebec, Canada) 
- | 16h10 | Présentation éclair (5 min)</br>Flash presentation (5 min) | [A Small Presentation about Small Books](../../talk/EBSI-SIS2021.21Ireland)  </br> David Ireland (McGill University, Quebec, Canada) 
- | 16h20 | Présentation orale (20 min)</br>Oral presentation (20 min) | [Decolonized Listening in the Archive: A Study of How a Reconstruction of Archival Processes and Spaces can Contribute to Decolonizing Narratives and Listening](../../talk/EBSI-SIS2021.22Tsatas)  </br> Sofie Tsatas (McGill University, Quebec, Canada)
- | 16h45 | Présentation orale (20 min)</br>Oral presentation (20 min) | [A systematic review of library services provision in response to COVID-19 pandemic](../../talk/EBSI-SIS2021.23Ayeni) </br> Philips Ayeni (McGill University, Quebec, Canada)
- | 17h05 | Délibération des juges pour remises de prix</br> Deliberation of the judges for awarding of prizes | Joan Bartlett (professeure agrégée, McGill University, Québec, Canada) </br> Bénédicte Graille (maîtresse de conférences, Université d’Angers, France) </br> Vincent Larivière (professeur, Université de Montréal, Québec, Canada) </br> Philippe Mongeon (professeur adj., Dalhousie University, Nova Scotia, Canada) </br> Natasha Zwarich (professeure, Université du Québec à Montréal, Québec, Canada)  
- | 17h25 | Annonce des gagnants et clôture du 13e Symposium EBSI-SIS</br>Announcement of the winners and closing of the 13th EBSI-SIS Symposium | Joan Bartlett (Associate professor, McGill University, Quebec, Canada)
+Important dates : Initial proposals due: March 18, 2022
+
+Proposals evaluated, decisions sent to authors: April 1, 2022
+
+14th EBSI-SIS Symposium: April 28, 2022 Registration : Registration is FREE but required. Please click here to register for the symposium. For more information, please contact us at sympo.ebsisis@gmail.com. You can also follow us on Twitter @sympoEbsiSis and on Facebook @sympoEbsiSis.
+
+We look forward to seeing you at the 14th EBSI-SIS Symposium!
+
+The 14th EBSI-SIS Symposium Organizing Committee:
+
+Xiaoqian (Zoey) Zhang, Samar Kiamé, Owen Stewart-Robertson, Richmond Yeboah, Edwin Madera, Saiyan Islam
+
+***
+
+Nous sommes heureux d’annoncer la tenue du symposium annuel EBSI-SIS 2022 en sciences de l’information, organisé conjointement par l’École de Bibliothéconomie et des Sciences de l’Information (EBSI) de l’Université de Montréal et la School of Information Studies (SIS) de l’Université McGill. L’évènement aura lieu virtuellement le 28 avril 2022. Depuis maintenant 14 ans, le symposium annuel donne l’occasion aux étudiants à la maîtrise, au doctorat et au post-doctorat de présenter leurs travaux de recherche et de rencontrer leurs pairs. Nous profitons de l’opportunité qu’offre la technologie pour encourager les étudiants étrangers à accepter notre invitation.
+
+Le symposium est gratuit et ouvert à tous
+Prix en argent pour : 
+* meilleures présentations (maîtrise et doctorat) 100$
+* meilleures affiches (maîtrise et doctorat) 50$
+
+Appel à communication : Le comité du symposium invite les étudiants en maîtrise/master et au doctorat, et les chercheurs postdoctoraux en sciences de l’information à soumettre leur proposition de communication sous forme d’affiche (10 minutes), de présentation éclair (5 minutes et 3 diapositives maximum) ou de présentation orale (20 minutes), le tout accompagné d’une période de questions. Les perspectives et les méthodologies variées, ainsi que les projets de recherche en cours sont les bienvenus. Les communications peuvent être données en français ou en anglais. Les auteurs peuvent soumettre leur communication en remplissant ce formulaire prévu à cet effet, d’ici le 18 mars 2022. Les décisions seront communiquées aux auteurs dès le 1er avril 2022. Tous les participants doivent aussi s'inscrire au symposium.
+
+Dates importantes : Dépôt des propositions initiales : 18 mars 2022
+
+Propositions évaluées, décisions envoyées aux auteurs : 1er avril 2022
+
+14e Symposium EBSI-SIS : 28 avril 2022 Inscription : L'inscription est GRATUITE mais obligatoire. Cliquez ce formulaire pour vous inscrire au colloque. Pour plus d'informations, veuillez nous contacter à sympo.ebsisis@gmail.com. Vous pouvez également nous suivre sur Twitter @sympoEbsiSis et sur Facebook @sympoEbsiSis.
+
+Nous avons hâte de vous voir au 14e Symposium EBSI-SIS!
+
 
 ### Organisateurs / Organizers
