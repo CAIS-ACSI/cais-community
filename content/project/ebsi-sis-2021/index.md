@@ -5,7 +5,7 @@ summary: "The EBSI-SIS Symposium is an annual event organized by the student of 
 # date: 2020-06-02T09:45:00.878Z
 draft: false
 featured: false
-location: /event/ebsi-sis-2021/
+location: Online
 location_url: https://zoom.us/j/91952595188
 authors:
  - Shahrazad Rahmé
