@@ -1,10 +1,7 @@
 ---
 title: "Muhe Yang"
 role: School of Information Studies, McGill University
-bio: "Je suis doctorante en études de l'information. Mes recherches portent sur l'interaction homme-machine et la technologie persuasive pour la santé. C’est une excellente occasion pour moi de m'impliquer dans l'organisation de ce symposium et de contribuer à la communauté de recherche. 
-</br></br>
-I am a doctoral student in information studies. My research focuses on human computer interaction and health persuasive technology. It is a great opportunity for me to get involved in organizing this symposium and contribute to the research community.
-"
+bio: "Muhe Yang is a PhD student in the School of Information Studies at McGill University. Her doctoral research in human computer interaction focuses on designing health-related behavior change technology for older adults."
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
@@ -12,6 +9,4 @@ user_groups:
 ---
 
 # Bio
-Je suis doctorante en études de l'information. Mes recherches portent sur l'interaction homme-machine et la technologie persuasive pour la santé. C’est une excellente occasion pour moi de m'impliquer dans l'organisation de ce symposium et de contribuer à la communauté de recherche. 
-
-I am a doctoral student in information studies. My research focuses on human computer interaction and health persuasive technology. It is a great opportunity for me to get involved in organizing this symposium and contribute to the research community.
+Muhe Yang is a PhD student in the School of Information Studies at McGill University. Her doctoral research in human computer interaction focuses on designing health-related behavior change technology for older adults.
