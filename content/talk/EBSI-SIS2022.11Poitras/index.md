@@ -1,7 +1,5 @@
 ---
-title: "Les compétences en gestion chez les bibliothécaires : une revue de littérature
-</br>
-Management competencies for librarians: a literature review"
+title: "Les compétences en gestion chez les bibliothécaires : une revue de littérature</br>Management competencies for librarians: a literature review"
 event: 14th EBSI-SIS Symposium
 event_url: ../../event/ebsi-sis-2022
 
