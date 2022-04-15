@@ -5,16 +5,16 @@ event_url: ../../event/ebsi-sis-2022
 
 location: https://zoom.us/j/88281371637
 
-abstract: "All institutions in general and information institutions in particular, seek to improve the quality of information performance. Those institutions represented by the National Library and Documentation House face several risks that require focusing on a strategy to prevent danger and developing the necessary strategies in accordance with the standards of the International Organization for Standardization ISO. This  prompted the researcher to engage in this topic and of what the National Library and Documentation House went through a painful experience and witnessed the destruction of the Iraqi memory, as it was subjected to burning, looting and destruction of most if not all information centers in Iraq. This requires the protection of these institutions, bypassing the theoretical side and working to implement policies and  scientific methods  in this respect.
-The goals of the study  
-1. Improving the quality of information performance and reducing the rate of counterfeiting, manipulation, theft, fraud, crimes through the application of the risk prevention strategy.
-2. Working  on building a database using the Microsoft Access database creation  and management program that includes (tables, forms, reports, queries) and everything related to this strategy  as an electronic record that provides information and statistics for that under  the name of (risk management record).  
-Expected results 
-1.	Assessing the level of potential risks and building a strategy for each risk that provides quality information for the decision maker.  
-2.	Creating  database as  electronic record that provides information and statistics for that under  the name of (risk management record).
-Study Methodology: 
-The study relied on two scientific methodologies, namely, the case study approach, and the descriptive analytical approach in identifying and evaluating potential risks.
-Objective limits: improving the quality of information performance by using  Risk- prevention strategy and procedures. 
+abstract: "All institutions in general and information institutions in particular, seek to improve the quality of information performance. Those institutions represented by the National Library and Documentation House face several risks that require focusing on a strategy to prevent danger and developing the necessary strategies in accordance with the standards of the International Organization for Standardization ISO. This  prompted the researcher to engage in this topic and of what the National Library and Documentation House went through a painful experience and witnessed the destruction of the Iraqi memory, as it was subjected to burning, looting and destruction of most if not all information centers in Iraq. This requires the protection of these institutions, bypassing the theoretical side and working to implement policies and  scientific methods  in this respect.</br>
+The goals of the study  </br>
+1. Improving the quality of information performance and reducing the rate of counterfeiting, manipulation, theft, fraud, crimes through the application of the risk prevention strategy.</br>
+2. Working  on building a database using the Microsoft Access database creation  and management program that includes (tables, forms, reports, queries) and everything related to this strategy  as an electronic record that provides information and statistics for that under  the name of (risk management record).  </br>
+Expected results </br>
+1.	Assessing the level of potential risks and building a strategy for each risk that provides quality information for the decision maker.  </br>
+2.	Creating  database as  electronic record that provides information and statistics for that under  the name of (risk management record).</br>
+Study Methodology: </br>
+The study relied on two scientific methodologies, namely, the case study approach, and the descriptive analytical approach in identifying and evaluating potential risks.</br>
+Objective limits: improving the quality of information performance by using  Risk- prevention strategy and procedures. </br>
 Spatial boundaries: The National Center for Documentation, as it represents an invaluable information wealth."
 
 # Talk start and end times.
