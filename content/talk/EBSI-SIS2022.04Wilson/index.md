@@ -1,5 +1,5 @@
 ---
-title: "'It’s not just about being a good archivist'”: Exploring the possibilities of liberatory archival futures"
+title: "'It’s not just about being a good archivist': Exploring the possibilities of liberatory archival futures"
 event: 14th EBSI-SIS Symposium
 event_url: ../../event/ebsi-sis-2022
 
