@@ -10,7 +10,7 @@ abstract: "La Recommandation de l’UNESCO sur une science ouverte a été adopt
 # Talk start and end times.
 
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-04-28T14:30:00Z"
+date: "2022-04-28T14:325:00Z"
 
 # date_end: "2020-10-02T10:07:00Z"
 all_day: false
