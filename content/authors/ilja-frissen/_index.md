@@ -7,9 +7,6 @@ bio: "Prof. Frissen is an Associate Professor in the School of Information Studi
 Le professeur Frissen est professeur agrégé à l'École des sciences de l'information de l'Université McGill. Il est titulaire d'un doctorat. En psychologie expérimentale de l'Université de Tilburg aux Pays-Bas. Ses intérêts de recherche incluent le partage (tacite) des connaissances et la perception auditive, haptique et multisensorielle."
 superuser: false
 user_groups:
-  - Presenters
-  - Authors
-  - Meet the Community
 ---
 
 # Bio
