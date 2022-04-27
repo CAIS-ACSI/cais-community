@@ -1,6 +1,6 @@
 ---
 title: Ilja Frissen
-role: McGill University
+role: Associate Professor, McGill University
 avatar_filename: avatar.jpg
 bio: "Prof. Frissen is an Associate Professor in the School of Information Studies at McGill University. He holds a Ph.D. in experimental psychology from Tilburg University in the Netherlands. His research interests include (tacit) knowledge sharing, and auditory, haptic, and multisensory perception. 
 </br>
