@@ -7,6 +7,7 @@ bio: "Bénédicte Grailles is a lecturer in archival science and director of the
 Bénédicte Grailles est maitresse de conférences en archivistique et directrice du master Archives a l'université d’Angers depuis 2004. Docteure en histoire de l’université de Lille, membre du laboratoire Temos (Temps, mondes, sociétés, UMR CNRS) et du groupe Alma (archives, livres, manuscrits et autres supports). Ses recherches portent sur les pratiques professionnelles et spontanées autour des archives, sur l’émergence de patrimoines archivistiques sociaux et militants et sur les usages du matériau archivistique. Elle coordonne actuellement le programme Péle-mél (plate-forme d’exploration, de livraison et d‘évaluation des méls) en collaboration avec le Leria (Laboratoire d’étude et de recherche en informatique d’Angers)."
 superuser: false
 user_groups:
+  - Judges
 ---
 
 # Bio
