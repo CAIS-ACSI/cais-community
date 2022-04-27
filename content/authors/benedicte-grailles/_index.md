@@ -1,8 +1,10 @@
 ---
-title:Benedicte Graille 
+title: Bénédicte Grailles
 role: Lecturer, University of Angers, France
 avatar_filename: avatar.jpg
-bio: "Benedicte Graille is a lecturer in archival science and director of the Masters in Archives at the University of Angers since 2004. Doctor of history from the University of Lille, member of the Temos laboratory."
+bio: "Prof. Frissen is an Associate Professor in the School of Information Studies at McGill University. He holds a Ph.D. in experimental psychology from Tilburg University in the Netherlands. His research interests include (tacit) knowledge sharing, and auditory, haptic, and multisensory perception. 
+</br>
+Le professeur Frissen est professeur agrégé à l'École des sciences de l'information de l'Université McGill. Il est titulaire d'un doctorat. En psychologie expérimentale de l'Université de Tilburg aux Pays-Bas. Ses intérêts de recherche incluent le partage (tacite) des connaissances et la perception auditive, haptique et multisensorielle."
 superuser: false
 user_groups:
   - Judges
