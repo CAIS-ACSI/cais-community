@@ -1,8 +1,8 @@
 ---
-title:Bénédicte Grailles 
+title:Benedicte Graille 
 role: Lecturer, University of Angers, France
 avatar_filename: avatar.jpg
-bio: "Bénédicte Grailles is a lecturer in archival science and director of the Masters in Archives at the University of Angers since 2004. Doctor of history from the University of Lille, member of the Temos laboratory."
+bio: "Benedicte Graille is a lecturer in archival science and director of the Masters in Archives at the University of Angers since 2004. Doctor of history from the University of Lille, member of the Temos laboratory."
 superuser: false
 user_groups:
   - Judges
