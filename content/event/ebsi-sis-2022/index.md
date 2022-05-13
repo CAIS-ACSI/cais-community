@@ -27,6 +27,8 @@ image:
   preview_only: false
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46tfJa7NUUwCkBdXoQoC0m_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
 
 ### Program
 | Time | Presentation Type | Title and Presentor
