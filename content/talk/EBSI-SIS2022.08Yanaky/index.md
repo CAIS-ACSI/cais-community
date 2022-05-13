@@ -5,7 +5,9 @@ event_url: ../../event/ebsi-sis-2022
 
 location: https://zoom.us/j/88281371637
 
-abstract: "I discuss the challenges with transdisciplinary research, and preliminary results of my own transdisciplinary work in progress. Through this, I hope to share methods for productively engaging with those from different fields, as well as professionals outside of academia.
+abstract: "Meilleure présentation orale doctorale | Best oral presentation for PhD student 
+</br>
+I discuss the challenges with transdisciplinary research, and preliminary results of my own transdisciplinary work in progress. Through this, I hope to share methods for productively engaging with those from different fields, as well as professionals outside of academia.
 </br>
 My dissertation centers around the design and development of immersive tools (e.g., Virtual Reality (VR)) to help non-sound professionals plan for better sounding public spaces. Currently, Professionals of the Built Environment (PBEs) (e.g., urban planners and designers do not have adequate access to sound-planning tools; they primarily focus on maximum allowable sound levels, as opposed to creating a pleasant auditory experience for city users. Unfortunately, this lack of sound-planning by PBEs discounts the significant benefits to be had when sounds are properly planned for. Examples include promoting public space utilization, fostering social interactions, and promoting stress recovery by providing a calm environment.
 </br>
