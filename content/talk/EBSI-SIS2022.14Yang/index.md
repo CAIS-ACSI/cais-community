@@ -5,7 +5,9 @@ event_url: ../../event/ebsi-sis-2022
 
 location: https://zoom.us/j/88281371637
 
-abstract: "As the number of empirical studies on persuasive technology (PT) is increasing, prior reviews focused primarily on the application and effectiveness of PT systems, while paying scarce attention to how studies were conducted. We present a methodological review of empirical studies on persuasive technology for promoting physical activity. This review includes 37 papers published in peer-reviewed venues, grouping them into three categories based on their research objectives: to design PT systems, to evaluate PT systems, and to examine the elements involved in PT. Through the in-depth analyses and syntheses of methodologies, we identify the common practices for each category respectively, and highlight current trends and research opportunities, which could provide a practical guide for future research."
+abstract: "<b>Meilleure présentation par affiche doctorale | Best poster for PhD Student</b>
+</br>
+As the number of empirical studies on persuasive technology (PT) is increasing, prior reviews focused primarily on the application and effectiveness of PT systems, while paying scarce attention to how studies were conducted. We present a methodological review of empirical studies on persuasive technology for promoting physical activity. This review includes 37 papers published in peer-reviewed venues, grouping them into three categories based on their research objectives: to design PT systems, to evaluate PT systems, and to examine the elements involved in PT. Through the in-depth analyses and syntheses of methodologies, we identify the common practices for each category respectively, and highlight current trends and research opportunities, which could provide a practical guide for future research."
 
 # Talk start and end times.
 
