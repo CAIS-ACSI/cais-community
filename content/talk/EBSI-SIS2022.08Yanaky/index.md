@@ -5,7 +5,7 @@ event_url: ../../event/ebsi-sis-2022
 
 location: https://zoom.us/j/88281371637
 
-abstract: "Meilleure présentation orale doctorale | Best oral presentation for PhD student 
+abstract: "<b>Meilleure présentation orale doctorale | Best oral presentation for PhD student</b>
 </br>
 I discuss the challenges with transdisciplinary research, and preliminary results of my own transdisciplinary work in progress. Through this, I hope to share methods for productively engaging with those from different fields, as well as professionals outside of academia.
 </br>
