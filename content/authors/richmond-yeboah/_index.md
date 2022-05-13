@@ -1,12 +1,16 @@
 ---
 title: "Richmond Yeboah"
 role: McGill University, Quebec, Canada
-bio: "Richmond Yeboah, a final semester master student at the School of Information Studies, McGill University. He holds a Bachelor of Arts degree with specialization in publishing studies. He is interested in research about information seeking behavior particularly in relation to access and information seeking barriers. He is currently working on a paper on neutrality as a value for information professionals and value perceptions of information sources among academic librarians."
+bio: "Richmond Yeboah is a PhD student at McGill’s School of Information Studies, working with Prof. Joan Bartlett. He studies the online information seeking behaviour of students and health professionals. His research concentrates on access and access restrictions.
+</br>
+Richmond Yeboah est étudiant au doctorat à l'École des sciences de l'information de McGill et travaille avec la professeure Joan Bartlett. Il étudie le comportement de recherche d'information en ligne des étudiants et des professionnels de la santé. Ses recherches portent sur l'accès et les restrictions d'accès"
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - author
+  - Meet the Community
 ---
 
 # Bio
-Richmond Yeboah, a final semester master student at the School of Information Studies, McGill University. He holds a Bachelor of Arts degree with specialization in publishing studies. He is interested in research about information seeking behavior particularly in relation to access and information seeking barriers. He is currently working on a paper on neutrality as a value for information professionals and value perceptions of information sources among academic librarians. 
+Richmond Yeboah is a PhD student at McGill’s School of Information Studies, working with Prof. Joan Bartlett. He studies the online information seeking behaviour of students and health professionals. His research concentrates on access and access restrictions.
+
+Richmond Yeboah est étudiant au doctorat à l'École des sciences de l'information de McGill et travaille avec la professeure Joan Bartlett. Il étudie le comportement de recherche d'information en ligne des étudiants et des professionnels de la santé. Ses recherches portent sur l'accès et les restrictions d'accès.
