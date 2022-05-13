@@ -7,6 +7,7 @@ Richmond Yeboah est étudiant au doctorat à l'École des sciences de l'informat
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
+  - author
   - Meet the Community
 ---
 
