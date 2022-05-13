@@ -5,7 +5,7 @@ bio: "Xiaoqian (Zoey) Zhang is a first-year doctoral student McGill Universityâ€
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:
-  - author
+  - Meet the Community
 ---
 
 # Bio
