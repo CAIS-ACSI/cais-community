@@ -1,5 +1,5 @@
 ---
-title: "Xiaoqian Zoey Zhang"
+title: "Xiaoqian Zhang"
 role: McGill University, Quebec, Canada
 bio: "I am a doctoral candidate at the School of Information Studies, McGill University. My doctoral research explores the health information behaviour of older adults. As the current Chair of the Association for Information Science and Technology (ASIS&T) McGill Student Chapter, I am pleased to organize the 14th EBSI-SIS symposium and help students to share their knowledge. 
 </br>
