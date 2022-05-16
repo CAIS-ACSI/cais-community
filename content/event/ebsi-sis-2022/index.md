@@ -10,7 +10,7 @@ location_url: https://ebsi-sis.ebsi.umontreal.ca/
 location_url: 
 
 authors:
- - Xiaoqian (Zoey) Zhang
+ - Xiaoqian Zhang
  - Samar Kiamé
  - Owen Stewart-Robertson
  - Richmond Yeboah
