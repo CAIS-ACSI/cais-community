@@ -1,142 +1,225 @@
 ---
 title: CAPAL 2022
 subtitle: Canadian Association of Professional Academic Librarians (CAPAL) Conference
-summary: "Canadian Association of Professional Academic Librarians (CAPAL): Call for Proposals / Appel à contributions"
+summary: "Canadian Association of Professional Academic Librarians (CAPAL) Conference"
 date: 2021-12-02T09:45:00.878Z
 draft: false
 featured: false
-location: https://zoom.us/j/99077508905
-location_url: https://zoom.us/j/99077508905
+location: Online
+location_url: https://events.zoom.us/ev/DLcBf_8tZD2mXLF8sAAAFgAAAB1Jg6DC4RlB59fqQghMRbUJ0y19GtfPZU-uPLEBeOMdf8yvPuCY~AEdhYueavXMvJCsgl-NOUsUNZUySPICd5Xl2NN0
 authors:
  - CAPAL Conference Committee
 
+links:
+ - name: Register for the CAPAL conference
+   url: https://events.zoom.us/ev/DLcBf_8tZD2mXLF8sAAAFgAAAB1Jg6DC4RlB59fqQghMRbUJ0y19GtfPZU-uPLEBeOMdf8yvPuCY~AEdhYueavXMvJCsgl-NOUsUNZUySPICd5Xl2NN0
+   
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
 
-### Summary
-Call for Proposals
+---
 
-The Canadian Association of Professional Academic Librarians (CAPAL) invites you to participate in its annual conference, to be held online June 6-7, 2022. This year the conference will be free to attend for both members and non-members. This conference offers librarians and allied professionals across all disciplines an alternative space to share research and scholarship, challenge current thinking about professional issues, and forge new relationships.
-
-CAPAL22: Libraries and Wellness
-
-How do we define wellness and what does it mean in the context of the academic library? Can wellness play a role in academic libraries? Moreover, should it?
-
-This CAPAL22: Libraries and Wellness conference will contemplate if and how wellness might be integrated into academic librarianship and academic library services. Together, we’ll wonder how our spaces, classrooms, and collections can contribute to a healthy, scalable, and sustainable future for academic libraries and their communities; if and how our current conceptions of wellness are compatible with equity, diversity and inclusivity projects, and how we can build ways of working together that are generative and affirming.
-
-Potential Topics
-
-Topics for papers, lightning talks, panels, and presentations should relate broadly to the topic of libraries and wellness and could include but are not limited to:
-
-● Defining wellness in academic libraries
-
-● The intersection of wellness and equity, diversity, and inclusion
-
-● Wellness for diverse academic library community members
-
-● The threat of misinformation on wellness
-
-● Wellness-informed library services
-
-● Meeting organizational demands in a sustainable and scalable way
-
-● The impact of wellness on library staff recruitment and retention
-
-● The future of wellness in libraries
-
-The Program Committee invites proposals for individual presentations from students, practitioners, researchers, and academics. Presentations must be original.
-
-● Paper presentations are typically 20 minutes in length
-
-● Panel presentations are typically 60 minutes in length and include 3 panelists
-
-● Lightning talks, approximately 5 to 10 minutes in length. Lightning talks can describe current research, works-in-progress, or other projects related to the conference theme
-
-Proposals must include:
-
-● An abstract of no more than 500 words
-
-● A presentation title
-
-● Up to 4 learning outcomes
-
-Accepted presentations will be delivered online in both live and pre-recorded formats. Please indicate your format preference when submitting your application.
-
-Proposals and presentations may be submitted in English or French. Please submit your proposal in English here: https://forms.gle/XrXHq1pSrdKa25wg7 Veuillez soumettre votre proposition ici : https://forms.gle/xBoiY9TMLZiA5tkV8
-
-Questions can be directed to the CAPAL22 Planning Committee at: CAPALconference@gmail.com
-
-Proposal Deadline: February 15, 2021
-
-The CAPAL Conference is committed to providing a space for everyone in academic librarianship to share their research, and meet and collaborate with colleagues. In striving to integrate our commitment to equity, inclusivity and representation, CAPAL welcomes and encourages proposals from researchers who identify as part of marginalized communities, including but not limited to First Nations, Métis, and Inuit individuals, Black individuals, people of colour, LGBTQIA2+ individuals, and disabled individuals.
-
-We look forward to reviewing your submissions and seeing you at the conference,
-
-The CAPAL22 Planning Committee
-
-
-
-Appel à contributions
-
-L'Association canadienne des bibliothécaires en enseignement supérieur (ACBES) vous invite à participer à sa conférence annuelle, qui se tiendra en ligne du 6 au 7 juin 2022. Cette année, la conférence sera gratuite pour les membres et les non-membres. Cette conférence offre aux bibliothécaires et aux professionnel.le.s apparenté.e.s de toutes les disciplines un espace alternatif pour partager recherches et savoirs, remettre en question la réflexion actuelle sur les questions professionnelles et tisser de nouvelles connexions.
-
-CAPAL22 : Bibliothèques et bien-être
-
-Comment définissons-nous le bien-être et que signifie-t-il dans un contexte de bibliothèque universitaire ? Le bien-être peut-il jouer un rôle dans les bibliothèques universitaires ? De plus, devrait-il ?
-
-Cette conférence ACBES22 : Bibliothèques et bien-être analysera si et comment le bien-être pourrait être intégré à la bibliothéconomie universitaire et aux services de bibliothèque
-
-universitaire. Ensemble, nous nous demanderons comment nos espaces, nos salles de classe et nos collections peuvent contribuer à un avenir sain, évolutif et durable pour les bibliothèques universitaires et leurs communautés ; si et comment nos conceptions actuelles du bien-être sont compatibles avec des projets d'équité, de diversité et d'inclusivité, et comment nous pouvons construire des façons de travailler ensemble qui soient génératives et affirmatives.
-
-Sujets potentiels
-
-Les sujets des articles, des conférences éclair, des panels et des présentations devraient se rapporter largement au thème des bibliothèques et du bien-être et pourraient inclure, sans s'y limiter :
-
-● Définir le bien-être dans les bibliothèques universitaires
-
-● L'intersection du bien-être et de l'équité, de la diversité et de l'inclusion
-
-● Bien-être pour les divers membres de la communauté des bibliothèques universitaires
-
-● La menace de la désinformation sur le bien-être
-
-● Services de bibliothèque axés sur le mieux-être
-
-● Répondre aux exigences organisationnelles de manière durable et évolutive
-
-● L'impact du mieux-être sur le recrutement et le maintien en poste du personnel des bibliothèques
-
-● L'avenir du bien-être dans les bibliothèques
-
-Le Comité du programme sollicite des propositions de présentations individuelles d'étudiant.e.s, de praticien.ne.s, de chercheuses.eurs et d'universitaires. Les présentations doivent être originales.
-
-● Les présentations individuelles durent généralement 20 minutes
-
-● Les panels durent généralement 60 minutes et comprennent 3 panélistes
-
-● Les conférences éclair d'une durée d'environ 5 à 10 minutes. Les conférences éclair peuvent décrire des recherches en cours, des travaux en cours ou d'autres projets liés au thème de la conférence
-
-Les propositions doivent inclure :
-
-● Un résumé ne dépassant pas 500 mots
-
-● Un titre de présentation
-
-● Jusqu'à 4 résultats d'apprentissage
-
-Les présentations acceptées seront présentées en ligne dans des formats en direct et préenregistrés. Veuillez indiquer votre préférence de format lors de la soumission de votre demande.
-
-Les propositions et présentations peuvent être soumises en anglais ou en français. Veuillez soumettre votre proposition ici : https://forms.gle/xBoiY9TMLZiA5tkV8
-
-Les questions peuvent être adressées au Comité de planification du CAPAL22 à l'adresse suivante : CAPALconference@gmail.com
-
-Date limite de soumission de proposition : 15 février 2021
-
-La conférence de l'ACBES s'engage à fournir un espace pour que toutes et tous les bibliothécaires universitaires puissent rencontrer et collaborer avec leurs collègues et partager leur recherche. En s'efforçant d'intégrer notre engagement envers l'équité, l'inclusivité et la représentation, l'ACBES accueille et encourage les propositions de chercheur.e.s qui s'identifient comme faisant partie de communautés marginalisées, y compris, mais sans s'y limiter, les membres des Premières Nations, les Métis et les Inuits, les Noir.e.s, les personnes racisées, les personnes LGBTQIA2+ et les personnes handicapées.
-
-Nous avons hâte de revoir vos soumissions et de vous voir à la conférence,
-
-Le Comité de planification du CAPAL22
+###PROGRAM 
+<table style="width:100%">
+  <tr>
+      <td colspan=4 style="font-size:20px"><strong>Day 1 - Monday, June 6</strong> </td>
+  </tr>
+  <tr>
+    <th style="width:15%">Session</th>
+    <th style="width:15%">Time (EDT)</th>
+    <th style="width:40%">Track 1</th>
+    <th style="width:40%">Track 2</th>
+  </tr>
+  <tr>
+    <td>Opening Keynote</td>
+    <td>11:00am - 12:00pm</td>
+    <td colspan=2>
+      <STRONG>Opening Keynote</STRONG></br>
+        <i>Jessie Loyer</i>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan=3>Choose session A or B</td>
+    <td rowspan=3>12:00pm - 1:00m</td>
+    <td>Session A:</td>
+    <td>Session B:</td>
+  </tr>
+  <tr>
+    <td><strong>“We’re in this boat together”: Relationships of care in Canadian academic libraries during COVID-19 [20-minute paper]</strong><br>
+        <i>Amy McLay Paterson</i>
+     </td>
+    <td><strong>Disability and wellness: An equity caution for libraries [20-minute paper]</strong><br>
+        <i>Joanne Oud</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Assessing the impact of students’ engagement and mental health on academic integrity during COVID-19 pandemic [20-minute paper]</strong><br>
+        <i>Marta Samokishyn & Victoria Tsonos </i>
+    <td><strong>“Neurodivergent wellness as quality of life, community, and autonomy in academic libraries [20-minute paper]</strong><br>
+        <i>Ben Michell</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=3>1:00pm - 1:15pm</td>
+  </tr>
+  <tr>
+    <td rowspan=3>Choose session C or D</td>
+    <td rowspan=3>1:15pm - 2:15pm</td>
+    <td>Session C:</td>
+    <td>Session D:</td>
+  </tr>
+  <tr>
+    <td><strong>Working well: Finding space for movement, self-care, and community at the Brock Library [1hr panel]</strong><br>
+        <i>Justine Cotton, Chelsea Humphries, & Laurie Morrison</i>
+    <td><strong>Beyond the bath bombs: Building community and connection at uOttawa Library [1hr panel]</strong><br>
+        <i>Cecilia Tellis, Fatoumata Bah, & Megan McMeekin</i>
+    </td>
+  </tr> 
+  <tr>
+    <td>Break</td>
+    <td colspan=3>2:15pm - 2:45pm</td>
+  </tr>
+  <tr>
+    <td rowspan=4>Choose session E or F</td>
+    <td rowspan=4>2:45pm - 3:45pm</td>
+    <td>Session C:</td>
+    <td>Session D:</td>
+  </tr>
+  <tr>
+    <td><strong>Talking books: Building community and supporting wellness [10-minute lightning talk]</strong><br>
+        <i>Carolyn Casenas & Melissa Smith</i>
+    <td><strong>The “new” moderators of wellness: Academic librarians in the platform age [10-minute lightning talk]</strong><br>
+        <i>Savannah Li, Kaushar Mahetaji, & Amanda Yang</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Creating a digital mindfulness resource guide for students [10-minute lightning talk]</strong><br>
+        <i>Kayla Lockwood & Bronwen Maxson</i>
+    <td><strong>Where is wellness going? [10-minute lightning talk]</strong><br>
+        <i>Kayla Kuni</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CAPAL R&S pilot project: Year one review [20-minute paper]</strong><br>
+        <i>Michelle Goodridge & Graham Lavender</i>
+    <td><strong>Building an emergency virtual reference service during lockdown: A case study on service design and staff support through crisis [10-minute lightning talk]</strong><br>
+        <i>Laura Ivan</i>
+    </td>
+    </tr>
+  <tr>
+    <td>Community of Practice Open House</td>
+    <td>3:45pm - 4:30pm</td>
+    <td colspan=2>
+      <STRONG>Community of Practice Open House</STRONG> 
+    </td>
+  </tr>
+  <tr>
+    <td rowspan=2>Choose a CoP session</td>td>
+    <td rowspan=2>4:30pm - 5:15pm</td>  
+    <td colspan=2>Displays, Outreach, and Engagement Community of Practice</td>
+   </tr>
+   <tr>
+    <td><STRONG>Information Literacy Community of Practice</STRONG></td>
+    <td><STRONG>Game-Based Learning Community of Practice<STRONG></td> 
+  </tr>
+  <tr>
+      <td colspan=3 style="font-size:20px"><strong><font>Day 2 - Tuesday, June 7</font></strong></td>
+  </tr>
+  <tr>
+    <th>Session</th>
+    <th>Time (EDT)</th>
+    <th>Track 1</th>
+    <th>Track 2</th>
+  </tr>
+  <tr>
+    <td>CAPAL AGM</td>
+    <td>10:30am - 11:30am</td>
+    <td colspan=2>
+      <STRONG>CAPAL AGM</STRONG> 
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=3>11:30am - 11:45am</td>
+  </tr>  
+  <tr>
+    <td rowspan=3>Choose session G or H</td>
+    <td rowspan=3>11:45am - 12:45m</td>
+    <td>Session G:</td>
+    <td>Session H:</td>
+  </tr>
+  <tr>
+    <td><strong>Library yoga: Experiences with virtual yoga programming at the Brock University Library [20-minute paper]</strong><br>
+        <i>Chelsea Humphries</i>
+    </td>
+    <td><strong>Applying principles of mindfulness and embodiment in library instruction to foster wellness [20-minute paper]</strong><br>
+        <i>Megan Fitzgibbons</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Thinking about compassion & love in academic libraries [20-minute paper]</strong><br>
+        <i>Mary Greenshields & Sandra Cowan </i>
+    </td>
+    <td><strong>Creative intervention centers: How campus makerspaces can be tweaked to combat the pandemic-induced mental health crisis [20-minute paper]</strong><br>
+        <i>Mary A. Guillory</i>
+    </td>
+  </tr>
+  </tr> 
+  <tr>
+    <td>Break</td>
+    <td colspan=3>12:45pm - 1:00pm</td>
+  </tr>
+  <tr>
+    <td rowspan=4>Choose session I or J</td>
+    <td rowspan=4>1:00pm - 2:00pm</td>
+    <td>Session I:</td>
+    <td>Session J:</td>
+  </tr>
+  <tr>
+    <td><strong>Strategic planning: How does it make you feel? [20-minute paper]</strong><br>
+        <i>Ania Dymarz</i>
+    <td><strong>“It’s a very straight space”: gender-diverse students’ narratives about the library [20-minute paper]</strong><br>
+        <i>Elizabeth Yates</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Librarian in the mirror: Using reflection for professional and personal wellbeing [20-minute paper]</strong><br>
+        <i>Justin Fuhr</i>
+    <td><strong>“I’m a girl, and I’m plural”: Emergency meditations on pedagogy, mindfulness, layered identities, and libraries [20-minute paper]</strong><br>
+        <i>Hazel Jane Plante</i>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Philosophical musings on mental health and wellness in post-pandemic academic libraries [20-minute paper]</strong><br>
+        <i>Bartlomiej Lenart</i>
+    </td>
+    </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=3>2:15pm - 3:00pm</td>
+  </tr>
+  <tr>
+    <td>CAPAL – CAIS Panel </td>
+    <td>3:00pm - 4:00pm</td>
+    <td colspan=2>
+      <STRONG>CAPAL – CAIS Panel</STRONG><br>
+        <i>Hosted on <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">CAIS zoom channel</a></i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=3>4:00pm - 4:15pm</td>
+  </tr>
+  <tr>
+    <td>Closing Keynote</td>
+    <td>4:15pm - 5:15pm</td>
+    <td colspan=2>
+      <STRONG>Closing Keynote</STRONG><br>
+        <i>Max Bowman</i>
+    </td>
+  </tr>
+</table>
