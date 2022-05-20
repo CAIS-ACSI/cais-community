@@ -58,7 +58,8 @@ image:
   <tr>
     <td><strong>Assessing the impact of students’ engagement and mental health on academic integrity during COVID-19 pandemic [20-minute paper]</strong><br>
         <i>Marta Samokishyn & Victoria Tsonos </i>
-    <td><strong>“Neurodivergent wellness as quality of life, community, and autonomy in academic libraries [20-minute paper]</strong><br>
+    </td>
+    <td><strong>Neurodivergent wellness as quality of life, community, and autonomy in academic libraries [20-minute paper]</strong><br>
         <i>Ben Michell</i>
     </td>
   </tr>
@@ -67,8 +68,8 @@ image:
     <td colspan=3>1:00pm - 1:15pm</td>
   </tr>
   <tr>
-    <td rowspan=3>Choose session C or D</td>
-    <td rowspan=3>1:15pm - 2:15pm</td>
+    <td rowspan=2>Choose session C or D</td>
+    <td rowspan=2>1:15pm - 2:15pm</td>
     <td>Session C:</td>
     <td>Session D:</td>
   </tr>
@@ -86,8 +87,8 @@ image:
   <tr>
     <td rowspan=4>Choose session E or F</td>
     <td rowspan=4>2:45pm - 3:45pm</td>
-    <td>Session C:</td>
-    <td>Session D:</td>
+    <td>Session E:</td>
+    <td>Session F:</td>
   </tr>
   <tr>
     <td><strong>Talking books: Building community and supporting wellness [10-minute lightning talk]</strong><br>
@@ -127,7 +128,7 @@ image:
     <td><STRONG>Game-Based Learning Community of Practice<STRONG></td> 
   </tr>
   <tr>
-      <td colspan=3 style="font-size:20px"><strong><font>Day 2 - Tuesday, June 7</font></strong></td>
+      <td colspan=4 style="font-size:20px"><strong><font>Day 2 - Tuesday, June 7</font></strong></td>
   </tr>
   <tr>
     <th>Session</th>
@@ -182,6 +183,7 @@ image:
   <tr>
     <td><strong>Strategic planning: How does it make you feel? [20-minute paper]</strong><br>
         <i>Ania Dymarz</i>
+    </td>
     <td><strong>“It’s a very straight space”: gender-diverse students’ narratives about the library [20-minute paper]</strong><br>
         <i>Elizabeth Yates</i>
     </td>
