@@ -76,6 +76,7 @@ image:
   <tr>
     <td><strong>Working well: Finding space for movement, self-care, and community at the Brock Library [1hr panel]</strong><br>
         <i>Justine Cotton, Chelsea Humphries, & Laurie Morrison</i>
+    </td>
     <td><strong>Beyond the bath bombs: Building community and connection at uOttawa Library [1hr panel]</strong><br>
         <i>Cecilia Tellis, Fatoumata Bah, & Megan McMeekin</i>
     </td>
@@ -93,6 +94,7 @@ image:
   <tr>
     <td><strong>Talking books: Building community and supporting wellness [10-minute lightning talk]</strong><br>
         <i>Carolyn Casenas & Melissa Smith</i>
+    </td>
     <td><strong>The “new” moderators of wellness: Academic librarians in the platform age [10-minute lightning talk]</strong><br>
         <i>Savannah Li, Kaushar Mahetaji, & Amanda Yang</i>
     </td>
@@ -100,6 +102,7 @@ image:
   <tr>
     <td><strong>Creating a digital mindfulness resource guide for students [10-minute lightning talk]</strong><br>
         <i>Kayla Lockwood & Bronwen Maxson</i>
+    </td>
     <td><strong>Where is wellness going? [10-minute lightning talk]</strong><br>
         <i>Kayla Kuni</i>
     </td>
@@ -107,6 +110,7 @@ image:
   <tr>
     <td><strong>CAPAL R&S pilot project: Year one review [20-minute paper]</strong><br>
         <i>Michelle Goodridge & Graham Lavender</i>
+    </td>
     <td><strong>Building an emergency virtual reference service during lockdown: A case study on service design and staff support through crisis [10-minute lightning talk]</strong><br>
         <i>Laura Ivan</i>
     </td>
