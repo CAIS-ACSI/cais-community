@@ -2,7 +2,7 @@
 title: CAPAL 2022
 subtitle: Canadian Association of Professional Academic Librarians (CAPAL) Conference
 summary: "Canadian Association of Professional Academic Librarians (CAPAL) Conference"
-date: 2022-06-06T11:00:00.878Z
+date: 2022-05-06T11:00:00.878Z
 draft: false
 featured: false
 location: Online
