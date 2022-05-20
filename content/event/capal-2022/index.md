@@ -2,7 +2,7 @@
 title: CAPAL 2022
 subtitle: Canadian Association of Professional Academic Librarians (CAPAL) Conference
 summary: "Canadian Association of Professional Academic Librarians (CAPAL) Conference"
-date: 2021-12-02T09:45:00.878Z
+date: 2022-06-06T11:00:00.878Z
 draft: false
 featured: false
 location: Online
@@ -22,7 +22,7 @@ image:
 
 ---
 
-###PROGRAM 
+### Program
 <table style="width:100%">
   <tr>
       <td colspan=4 style="font-size:20px"><strong>Day 1 - Monday, June 6</strong> </td>
@@ -189,6 +189,7 @@ image:
   <tr>
     <td><strong>Librarian in the mirror: Using reflection for professional and personal wellbeing [20-minute paper]</strong><br>
         <i>Justin Fuhr</i>
+    </td>
     <td><strong>“I’m a girl, and I’m plural”: Emergency meditations on pedagogy, mindfulness, layered identities, and libraries [20-minute paper]</strong><br>
         <i>Hazel Jane Plante</i>
     </td>
