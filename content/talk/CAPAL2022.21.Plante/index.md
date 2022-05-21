@@ -5,7 +5,7 @@ event_url: ../../event/capal-2022
 
 # location: https://zoom.us/j/99077508905
 
-abstract: "I meet others with the life I've lived, not just with my questions." - Krista Tippett. While working amidst a global pandemic, many of us have been inviting students, researchers, and colleagues into our homes for meetings, classes, and consultations. At times, we have likely felt a sense of connection and compassion, in part because we have become keenly aware that we are all suffering. In this paper, Hazel Jane Plante will discuss opening her pedagogical practice to allow space for mindfulness, embodiment, and knowledge gained from her layered identity as an academic librarian, a queer trans femme, a Buddhist, and a novelist.   
+abstract: ""I meet others with the life I've lived, not just with my questions." - Krista Tippett. While working amidst a global pandemic, many of us have been inviting students, researchers, and colleagues into our homes for meetings, classes, and consultations. At times, we have likely felt a sense of connection and compassion, in part because we have become keenly aware that we are all suffering. In this paper, Hazel Jane Plante will discuss opening her pedagogical practice to allow space for mindfulness, embodiment, and knowledge gained from her layered identity as an academic librarian, a queer trans femme, a Buddhist, and a novelist."   
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -26,8 +26,6 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 links:
  - name: CAPAL 2022
