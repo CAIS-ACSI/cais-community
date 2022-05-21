@@ -129,7 +129,7 @@ image:
    </tr>
    <tr>
     <td><STRONG>Information Literacy Community of Practice</STRONG></td>
-    <td><STRONG>Game-Based Learning Community of Practice<STRONG></td> 
+    <td><STRONG>Game-Based Learning Community of Practice<STRONG> 
   </tr>
   <tr>
       <td colspan=4 style="font-size:20px"><strong><font>Day 2 - Tuesday, June 7</font></strong></td>
