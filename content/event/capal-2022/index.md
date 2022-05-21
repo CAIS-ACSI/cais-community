@@ -229,5 +229,4 @@ image:
         <i>Max Bowman</i>
     </td>
   </tr>
-  </td>
 </table>
