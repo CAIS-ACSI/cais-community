@@ -5,7 +5,7 @@ event_url: ../../event/capal-2022
 
 # location: https://zoom.us/j/99077508905
 
-abstract: We believe that libraries are uniquely positioned to be a space where wellness programming can flourish!  At the Brock Library we have undertaken a variety of wellness initiatives which together offer students and staff many opportunities to reflect on their wellbeing. Panelists will discuss these initiatives which include: a librarian meditation group, a wellness-themed Microsoft Teams channel, library yoga programming, co-curricular workshops and groups for students exploring mindfulness/health/wellness topics (e.g., mindful research, investigating the influencer), and a wellness-themed book club. We also reflect on how our spaces can contribute to wellness; specifically, how quiet and silent study spaces can offer a unique, and often difficult to find, support for the contemplative and reflective needs of students. These initiatives have positively affected our work as librarians, and they have helped us to forge stronger connections with our colleagues and students. We look forward to sharing our experiences and connecting with others in the field!
+abstract: "We believe that libraries are uniquely positioned to be a space where wellness programming can flourish!  At the Brock Library we have undertaken a variety of wellness initiatives which together offer students and staff many opportunities to reflect on their wellbeing. Panelists will discuss these initiatives which include: a librarian meditation group, a wellness-themed Microsoft Teams channel, library yoga programming, co-curricular workshops and groups for students exploring mindfulness/health/wellness topics (e.g., mindful research, investigating the influencer), and a wellness-themed book club. We also reflect on how our spaces can contribute to wellness; specifically, how quiet and silent study spaces can offer a unique, and often difficult to find, support for the contemplative and reflective needs of students. These initiatives have positively affected our work as librarians, and they have helped us to forge stronger connections with our colleagues and students. We look forward to sharing our experiences and connecting with others in the field!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,8 +28,6 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 links:
  - name: CAPAL 2022
