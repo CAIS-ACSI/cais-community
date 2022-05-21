@@ -5,7 +5,7 @@ event_url: ../../event/capal-2022
 
 # location: https://zoom.us/j/99077508905
 
-abstract: Underneath a polished and public two page strategic planning document you can find personal stories, emotional responses, systemic critique, and a (missed?) opportunity to truly value the work and voices of library workers. In the Fall of 2018 two researchers set out to find out more about strategic planning through semi-structured interviews with library workers at two Canadian university libraries. This paper will present preliminary results of this research focusing specifically on what strategic planning means to library workers. By centring library workers within the discourse on strategic planning we move away from an administrative understanding of strategic planning, or a purely discursive one, towards one that makes visible the labour of library workers. This centring can help us better understand the impact of these organizational processes on our workplaces and can help us think about how the work and voices of individual library workers can be valued. The preliminary results I will be sharing will focus on three themes: The pitfalls of process, the impact on library workers, and the hopes… for strategic planning and for our organizations as a whole. 
+abstract: "Underneath a polished and public two page strategic planning document you can find personal stories, emotional responses, systemic critique, and a (missed?) opportunity to truly value the work and voices of library workers. In the Fall of 2018 two researchers set out to find out more about strategic planning through semi-structured interviews with library workers at two Canadian university libraries. This paper will present preliminary results of this research focusing specifically on what strategic planning means to library workers. By centring library workers within the discourse on strategic planning we move away from an administrative understanding of strategic planning, or a purely discursive one, towards one that makes visible the labour of library workers. This centring can help us better understand the impact of these organizational processes on our workplaces and can help us think about how the work and voices of individual library workers can be valued. The preliminary results I will be sharing will focus on three themes: The pitfalls of process, the impact on library workers, and the hopes… for strategic planning and for our organizations as a whole."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -26,8 +26,6 @@ tags:
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 links:
  - name: CAPAL 2022
