@@ -34,7 +34,7 @@ image:
     <th style="width:40%">Track 2</th>
   </tr>
   <tr>
-    <td>Opening Keynote</td>
+      <td><a href="https://www.cais-community.ca/talk/CAPAL2022.1.Opening/">Opening Keynote</a></td>
     <td>11:00am - 12:00pm</td>
     <td colspan=2>
       <STRONG>Opening Keynote</STRONG></br>
@@ -48,18 +48,18 @@ image:
     <td>Session B:</td>
   </tr>
   <tr>
-    <td><strong>“We’re in this boat together”: Relationships of care in Canadian academic libraries during COVID-19 [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.2.Paterson/">“A drop in the bucket”: Academic Librarian Wellness during COVID-19.</a> [20-minute paper]</strong><br>
         <i>Amy McLay Paterson</i>
      </td>
-    <td><strong>Disability and wellness: An equity caution for libraries [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.3.Oud/">Disability and wellness: An equity caution for libraries</a> [20-minute paper]</strong><br>
         <i>Joanne Oud</i>
     </td>
   </tr>
   <tr>
-    <td><strong>Assessing the impact of students’ engagement and mental health on academic integrity during COVID-19 pandemic [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.4.Samokishyn/">Assessing the impact of students’ engagement and mental health on academic integrity during COVID-19 pandemic</a> [20-minute paper]</strong><br>
         <i>Marta Samokishyn & Victoria Tsonos </i>
     </td>
-    <td><strong>Neurodivergent wellness as quality of life, community, and autonomy in academic libraries [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.5.Michell/">Neurodivergent wellness as quality of life, community, and autonomy in academic libraries</a> [20-minute paper]</strong><br>
         <i>Ben Michell</i>
     </td>
   </tr>
@@ -74,10 +74,10 @@ image:
     <td>Session D:</td>
   </tr>
   <tr>
-    <td><strong>Working well: Finding space for movement, self-care, and community at the Brock Library [1hr panel]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.6.Cotton/">Working well: Finding space for movement, self-care, and community at the Brock Library</a> [1hr panel]</strong><br>
         <i>Justine Cotton, Chelsea Humphries, & Laurie Morrison</i>
     </td>
-    <td><strong>Beyond the bath bombs: Building community and connection at uOttawa Library [1hr panel]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.7.Tellis/">Beyond the bath bombs: Building community and connection at uOttawa Library</a> [1hr panel]</strong><br>
         <i>Cecilia Tellis, Fatoumata Bah, & Megan McMeekin</i>
     </td>
   </tr> 
@@ -92,26 +92,26 @@ image:
     <td>Session F:</td>
   </tr>
   <tr>
-    <td><strong>Talking books: Building community and supporting wellness [10-minute lightning talk]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.8.Casenas/">Talking books: Building community and supporting wellness</a> [10-minute lightning talk]</strong><br>
         <i>Carolyn Casenas & Melissa Smith</i>
     </td>
-    <td><strong>The “new” moderators of wellness: Academic librarians in the platform age [10-minute lightning talk]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.9.Li/">The “new” moderators of wellness: Academic librarians in the platform age</a> [10-minute lightning talk]</strong><br>
         <i>Savannah Li, Kaushar Mahetaji, & Amanda Yang</i>
     </td>
   </tr>
   <tr>
-    <td><strong>Creating a digital mindfulness resource guide for students [10-minute lightning talk]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.10.Lockwood/">Creating a digital mindfulness resource guide for students</a> [10-minute lightning talk]</strong><br>
         <i>Kayla Lockwood & Bronwen Maxson</i>
     </td>
-    <td><strong>Where is wellness going? [10-minute lightning talk]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.11.Kuni/">Where is wellness going?</a> [10-minute lightning talk]</strong><br>
         <i>Kayla Kuni</i>
     </td>
   </tr>
   <tr>
-    <td><strong>CAPAL R&S pilot project: Year one review [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.12.Goodridge/">CAPAL R&S pilot project: Year one review</a> [20-minute paper]</strong><br>
         <i>Michelle Goodridge & Graham Lavender</i>
     </td>
-    <td><strong>Building an emergency virtual reference service during lockdown: A case study on service design and staff support through crisis [10-minute lightning talk]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.13.Ivan/">Building an emergency virtual reference service during lockdown: A case study on service design and staff support through crisis</a> [10-minute lightning talk]</strong><br>
         <i>Laura Ivan</i>
     </td>
     </tr>
@@ -158,18 +158,18 @@ image:
     <td>Session H:</td>
   </tr>
   <tr>
-    <td><strong>Library yoga: Experiences with virtual yoga programming at the Brock University Library [20-minute paper]</strong><br>
+      <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.14.Humphries/">Library yoga: Experiences with virtual yoga programming at the Brock University Library</a> [20-minute paper]</strong><br>
         <i>Chelsea Humphries</i>
     </td>
-    <td><strong>Applying principles of mindfulness and embodiment in library instruction to foster wellness [20-minute paper]</strong><br>
+      <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.15.Fitzgibbons/">Applying principles of mindfulness and embodiment in library instruction to foster wellness</a> [20-minute paper]</strong><br>
         <i>Megan Fitzgibbons</i>
     </td>
   </tr>
   <tr>
-    <td><strong>Thinking about compassion & love in academic libraries [20-minute paper]</strong><br>
+      <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.16.Greenshields/">Thinking about compassion & love in academic libraries</a> [20-minute paper]</strong><br>
         <i>Mary Greenshields & Sandra Cowan </i>
     </td>
-    <td><strong>Creative intervention centers: How campus makerspaces can be tweaked to combat the pandemic-induced mental health crisis [20-minute paper]</strong><br>
+      <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.17.Guillory/">Creative intervention centers: How campus makerspaces can be tweaked to combat the pandemic-induced mental health crisis</a> [20-minute paper]</strong><br>
         <i>Mary A. Guillory</i>
     </td>
   </tr>
@@ -185,23 +185,23 @@ image:
     <td>Session J:</td>
   </tr>
   <tr>
-    <td><strong>Strategic planning: How does it make you feel? [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.18.Dymarz/">Strategic planning: How does it make you feel?</a> [20-minute paper]</strong><br>
         <i>Ania Dymarz</i>
     </td>
-    <td><strong>“It’s a very straight space”: gender-diverse students’ narratives about the library [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.19.Yates/">“It’s a very straight space”: gender-diverse students’ narratives about the library</a> [20-minute paper]</strong><br>
         <i>Elizabeth Yates</i>
     </td>
   </tr>
   <tr>
-    <td><strong>Librarian in the mirror: Using reflection for professional and personal wellbeing [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.20.Fuhr/">Librarian in the mirror: Using reflection for professional and personal wellbeing</a> [20-minute paper]</strong><br>
         <i>Justin Fuhr</i>
     </td>
-    <td><strong>“I’m a girl, and I’m plural”: Emergency meditations on pedagogy, mindfulness, layered identities, and libraries [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.21.Plante/">“I’m a girl, and I’m plural”: Emergency meditations on pedagogy, mindfulness, layered identities, and libraries</a> [20-minute paper]</strong><br>
         <i>Hazel Jane Plante</i>
     </td>
   </tr>
   <tr>
-    <td><strong>Philosophical musings on mental health and wellness in post-pandemic academic libraries [20-minute paper]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.22.Lenart/">Philosophical musings on mental health and wellness in post-pandemic academic libraries</a> [20-minute paper]</strong><br>
         <i>Bartlomiej Lenart</i>
     </td>
     </tr>
@@ -225,7 +225,7 @@ image:
     <td>Closing Keynote</td>
     <td>4:15pm - 5:15pm</td>
     <td colspan=2>
-      <STRONG>Closing Keynote</STRONG><br>
+        <STRONG><a href="https://www.cais-community.ca/talk/CAPAL2022.23.Closing/">Closing Keynote</a></STRONG><br>
         <i>Max Bowman</i>
     </td>
   </tr>
