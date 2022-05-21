@@ -34,10 +34,10 @@ image:
     <th style="width:40%">Track 2</th>
   </tr>
   <tr>
-      <td><a href="https://www.cais-community.ca/talk/CAPAL2022.1.Opening/">Opening Keynote</a></td>
+      <td>Opening Keynote</td>
     <td>11:00am - 12:00pm</td>
     <td colspan=2>
-      <STRONG>Opening Keynote</STRONG></br>
+      <STRONG><a href="https://www.cais-community.ca/talk/CAPAL2022.1.Opening/">Opening Keynote</a></STRONG></br>
         <i>Jessie Loyer</i>
     </td>
   </tr>
