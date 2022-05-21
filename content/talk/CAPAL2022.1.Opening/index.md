@@ -5,7 +5,7 @@ event_url: ../../event/capal-2022
 
 # location: https://zoom.us/j/99077508905
 
-abstract: Opening Keynote
+abstract: "Opening Keynote"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
