@@ -77,7 +77,7 @@ image:
     <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.6.Cotton/">Working well: Finding space for movement, self-care, and community at the Brock Library</a> [1hr panel]</strong><br>
         <i>Justine Cotton, Chelsea Humphries, & Laurie Morrison</i>
     </td>
-    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.7.Tellis/">Beyond the bath bombs: Building community and connection at uOttawa Library</a> [1hr panel]</strong><br>
+    <td><strong><a href="https://www.cais-community.ca/talk/CAPAL2022.7.Tellis/">Beyond bath bombs: Wellness through community building and connection at uOttawa Library</a> [1hr panel]</strong><br>
         <i>Cecilia Tellis, Fatoumata Bah, & Megan McMeekin</i>
     </td>
   </tr> 
