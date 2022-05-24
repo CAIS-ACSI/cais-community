@@ -124,7 +124,7 @@ image:
     </td>
   </tr>
   <tr>
-    <td rowspan=2>Choose a CoP session</td>td>
+    <td rowspan=2>Choose a CoP session</td>
     <td rowspan=2>4:30pm - 5:15pm</td>  
     <td colspan=2>Displays, Outreach, and Engagement Community of Practice</td>
    </tr>
