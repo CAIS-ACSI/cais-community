@@ -13,7 +13,8 @@ authors:
 links:
  - name: Register for the CAPAL conference
    url: https://events.zoom.us/ev/DLcBf_8tZD2mXLF8sAAAFgAAAB1Jg6DC4RlB59fqQghMRbUJ0y19GtfPZU-uPLEBeOMdf8yvPuCY~AEdhYueavXMvJCsgl-NOUsUNZUySPICd5Xl2NN0
-   
+ - name: CAPAL Code of Conduct
+   url: https://docs.google.com/document/d/1bak4eyfYyByTn8knBVjXzCHob4vHbS4m/edit
 image:
   filename: featured
   focal_point: Smart
