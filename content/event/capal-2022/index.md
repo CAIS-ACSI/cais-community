@@ -139,17 +139,6 @@ image:
     <th>Time (EDT)</th>
     <th>Track 1</th>
     <th>Track 2</th>
-  </tr>
-  <tr>
-    <td>CAPAL AGM</td>
-    <td>10:30am - 11:30am</td>
-    <td colspan=2>
-      <STRONG>CAPAL AGM</STRONG> 
-    </td>
-  </tr>
-  <tr>
-    <td>Break</td>
-    <td colspan=3>11:30am - 11:45am</td>
   </tr>  
   <tr>
     <td rowspan=3>Choose session G or H</td>
