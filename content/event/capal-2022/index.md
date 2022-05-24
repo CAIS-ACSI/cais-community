@@ -143,7 +143,7 @@ image:
   </tr>  
   <tr>
     <td rowspan=3>Choose session G or H</td>
-    <td rowspan=3>11:45am - 12:45m</td>
+    <td rowspan=3>12:00pm - 1:00pm</td>
     <td>Session G:</td>
     <td>Session H:</td>
   </tr>
@@ -166,11 +166,11 @@ image:
   </tr> 
   <tr>
     <td>Break</td>
-    <td colspan=3>12:45pm - 1:00pm</td>
+    <td colspan=3>1:00pm - 1:15pm</td>
   </tr>
   <tr>
     <td rowspan=4>Choose session I or J</td>
-    <td rowspan=4>1:00pm - 2:00pm</td>
+    <td rowspan=4>1:15pm - 2:30pm</td>
     <td>Session I:</td>
     <td>Session J:</td>
   </tr>
@@ -197,7 +197,7 @@ image:
     </tr>
   <tr>
     <td>Break</td>
-    <td colspan=3>2:15pm - 3:00pm</td>
+    <td colspan=3>2:30pm - 3:00pm</td>
   </tr>
   <tr>
     <td>CAPAL – CAIS Panel </td>
