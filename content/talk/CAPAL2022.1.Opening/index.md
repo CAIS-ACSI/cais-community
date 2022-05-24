@@ -6,7 +6,7 @@ event_url: ../../event/capal-2022
 # location: https://zoom.us/j/99077508905
 
 abstract: "How can we disrupt the singular white man's joy that shapes our collections? In this keynote, we'll discuss Indigenous relationality as an alternative to the structures of our libraries, the resurgence of Indigenous knowledge systems, and the ways we can dream a future of care for each other.
-</br>
+</br></br>
 Comment perturber la singulière joie d'homme blanc qui façonne nos collections ? Dans cette allocution, nous discuterons de la relationalité autochtone en tant qu'alternative aux structures de nos bibliothèques, de la résurgence des systèmes de savoirs autochtones et des façons dont nous pouvons rêver d'un avenir où nous prendrons soin les un.e.s des autres."
 
 # Talk start and end times.
