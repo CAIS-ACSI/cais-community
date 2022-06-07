@@ -204,7 +204,7 @@ image:
     <td>3:00pm - 4:00pm</td>
     <td colspan=2>
       <STRONG>CAPAL – CAIS Panel</STRONG><br>
-        <i>Hosted on <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">CAIS zoom channel</a></i>
+        <i>Hosted on <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">CAIS zoom channel</a> passcode: 502897</i>
     </td>
   </tr>
   <tr>
