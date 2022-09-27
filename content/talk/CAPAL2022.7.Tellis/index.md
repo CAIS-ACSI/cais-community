@@ -21,7 +21,11 @@ authors:
 - Megan McMeekin
 
 tags: 
-- 
+- Wellness
+- Burnout
+- Equity
+- Libraries
+- Workplace
 
 
 # Is this a featured talk? (true/false)
