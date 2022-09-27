@@ -21,7 +21,9 @@ authors:
 - Megan McMeekin
 
 tags: 
-- 
+- wellness
+- librarianship
+- inclusion
 
 
 # Is this a featured talk? (true/false)
