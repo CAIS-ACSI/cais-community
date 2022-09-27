@@ -20,7 +20,11 @@ authors:
 - Melissa Smith
 
 tags: 
-- 
+- Reading
+-	Community
+-	Wellness
+-	Book Chat
+-	Stress Relief
 
 
 # Is this a featured talk? (true/false)
