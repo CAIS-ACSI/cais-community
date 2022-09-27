@@ -22,6 +22,7 @@ tags:
 - Identity
 - Queer Experience 
 - Librarianship
+- Buddhism
 
 
 # Is this a featured talk? (true/false)
