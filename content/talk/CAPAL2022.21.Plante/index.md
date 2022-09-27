@@ -19,7 +19,9 @@ authors:
 - Hazel Jane Plante
 
 tags: 
-- 
+- Identity
+- Queer Experience 
+- Librarianship
 
 
 # Is this a featured talk? (true/false)
