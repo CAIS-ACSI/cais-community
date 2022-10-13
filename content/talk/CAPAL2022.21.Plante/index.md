@@ -23,7 +23,7 @@ tags:
 - Queer Experience 
 - Librarianship
 - Buddhism
-
+- Mindfulness
 
 # Is this a featured talk? (true/false)
 featured: false
