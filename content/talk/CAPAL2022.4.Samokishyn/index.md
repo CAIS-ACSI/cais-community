@@ -20,7 +20,12 @@ authors:
 - Victoria Tsonos
 
 tags: 
-- 
+- Mental Health
+- Academic Integrity 
+- Covid-19 
+- Pandemic
+
+
 
 
 # Is this a featured talk? (true/false)
