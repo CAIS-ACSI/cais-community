@@ -21,6 +21,8 @@ authors:
 - Megan McMeekin
 
 tags: 
+- Librarianship
+- Inclusion
 - Wellness
 - Burnout
 - Equity
