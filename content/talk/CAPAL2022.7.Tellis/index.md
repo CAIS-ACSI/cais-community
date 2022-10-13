@@ -21,9 +21,13 @@ authors:
 - Megan McMeekin
 
 tags: 
-- wellness
-- librarianship
-- inclusion
+- Librarianship
+- Inclusion
+- Wellness
+- Burnout
+- Equity
+- Libraries
+- Workplace
 
 
 # Is this a featured talk? (true/false)
