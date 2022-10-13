@@ -22,6 +22,7 @@ tags:
 - Memes
 - Knowledge Organization
 - Phylomemetics 
+- Cataloguing
 
 
 # Is this a featured talk? (true/false)
