@@ -10,9 +10,9 @@ location_url: https://ebsi-sis.ebsi.umontreal.ca/
 location_url: 
 
 authors:
- - Xiaoqian (Zoey) Zhang
  - Bella Assen Jacquette Fleur
  - Owen Stewart-Robertson
+ - Xiaoqian (Zoey) Zhang
  - Richmond Yeboah
  - Denise Scandarolli Inacio
 
