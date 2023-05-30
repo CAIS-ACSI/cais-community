@@ -20,6 +20,8 @@ publishDate: "2010-01-01T00:00:00Z"
 
 authors:
 - David Ireland
+tags: 
+- chapbooks
 
 # Is this a featured talk? (true/false)
 featured: false
