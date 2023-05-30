@@ -28,6 +28,9 @@ tags:
 - Equity
 - Libraries
 - Workplace
+- Community
+- Diversity
+- 
 
 
 # Is this a featured talk? (true/false)
