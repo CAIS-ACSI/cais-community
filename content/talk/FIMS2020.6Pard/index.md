@@ -21,6 +21,7 @@ authors:
 tags: 
 - Fan Studies
 - K-Pop Fandoms
+- Public Libraries
 - Popular Culture
 - Teens
 
