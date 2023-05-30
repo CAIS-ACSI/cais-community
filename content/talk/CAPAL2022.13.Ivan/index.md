@@ -19,7 +19,8 @@ authors:
 - Laura Ivan
 
 tags: 
-- 
+- Covid-19
+- Virtual Reference
 
 
 # Is this a featured talk? (true/false)
