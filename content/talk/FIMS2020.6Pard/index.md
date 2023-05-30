@@ -21,6 +21,7 @@ authors:
 tags: 
 - Fan Studies
 - K-Pop Fandoms
+- Popular Culture
 
 
 # Is this a featured talk? (true/false)
