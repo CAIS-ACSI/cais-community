@@ -21,6 +21,7 @@ authors:
 tags: 
 - Education
 - Racialized Youth
+- Anti-racism
 
 
 # Is this a featured talk? (true/false)
