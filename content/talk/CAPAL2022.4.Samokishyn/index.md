@@ -24,6 +24,7 @@ tags:
 - Academic Integrity 
 - Covid-19 
 - Pandemic
+- Canada
 
 
 
