@@ -20,8 +20,7 @@ authors:
 - Greg Nightingale
 tags: 
 - Circulation
-- Empathy
-- Walter Benjamin
+- Empathy 
 
 
 # Is this a featured talk? (true/false)
