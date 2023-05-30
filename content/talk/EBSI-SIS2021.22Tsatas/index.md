@@ -17,7 +17,10 @@ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2010-01-01T00:00:00Z"
-
+tags:
+- Dylan Robinson
+- Candice Hopkins
+- Decolonization
 authors:
 - Sofie Tsatas
 
