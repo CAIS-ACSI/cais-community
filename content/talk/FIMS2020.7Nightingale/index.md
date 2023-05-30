@@ -21,6 +21,7 @@ authors:
 tags: 
 - Circulation
 - Empathy
+- Walter Benjamin
 
 
 # Is this a featured talk? (true/false)
