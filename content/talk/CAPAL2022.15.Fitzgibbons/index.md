@@ -19,7 +19,7 @@ authors:
 - Megan Fitzgibbons
 
 tags: 
-- 
+- mindfulness
 
 
 # Is this a featured talk? (true/false)
