@@ -25,6 +25,7 @@ authors:
 tags: 
 - Aboutness
 - Church of Canada
+- Indexing
 
 
 # Is this a featured talk? (true/false)
