@@ -35,7 +35,7 @@ Le comité du symposium invite les étudiant.e.s en maîtrise/master et au docto
 
 <b>Inscription</b>
 
-Le symposium est gratuit pour tous mais nécessite une inscription [ici](https://forms.gle/BNMUNbZF4vRwSnr29). Pour plus d’information, veuillez consulter nos sites Web [ebsi-sis.ebsi.umontreal.ca] ou [mcgill.ca/sis-students/asist], ou nous contacter à l’adresse [sympo.ebsisis@gmail.com]. Vous pouvez également nous suivre sur X [@sympoEbsiSis] et sur Facebook [@sympoEbsiSis].
+Le symposium est gratuit pour tous mais nécessite une inscription [ici](https://forms.gle/BNMUNbZF4vRwSnr29). Pour plus d’information, veuillez consulter nos sites Web [ebsi-sis.ebsi.umontreal.ca](https://ebsi-sis.ebsi.umontreal.ca/) ou [mcgill.ca/sis-students/asist](https://mcgill.ca/sis-students/asist/events), ou nous contacter à l’adresse [sympo.ebsisis@gmail.com](mailto:sympo.ebsisis@gmail.com). Vous pouvez également nous suivre sur X [@sympoEbsiSis](https://twitter.com/SympoEbsiSis) et sur Facebook [@sympoEbsiSis](https://www.facebook.com/people/Symposium-Ebsi-Sis/100075478524975/).
 
 Au plaisir de vous rencontrer au symposium EBSI-SIS!
 
@@ -53,7 +53,7 @@ The symposium committee invites master's and doctoral students in information sc
 
 <b>Registration</b>
 
-The symposium is free for all but requires registration [here](https://forms.gle/BNMUNbZF4vRwSnr29). For more information, please visit our websites [ebsi-sis.ebsi.umontreal.ca] or [mcgill.ca/sis-students/asist], or contact us at [sympo.ebsisis@gmail.com]. You can also follow us on X [@sympoEbsiSis] and on Facebook [@sympoEbsiSis].
+The symposium is free for all but requires registration [here](https://forms.gle/BNMUNbZF4vRwSnr29). For more information, please visit our websites [ebsi-sis.ebsi.umontreal.ca](https://ebsi-sis.ebsi.umontreal.ca/) or [mcgill.ca/sis-students/asist](https://mcgill.ca/sis-students/asist/events), or contact us at [sympo.ebsisis@gmail.com](mailto:sympo.ebsisis@gmail.com). You can also follow us on X [@sympoEbsiSis](https://twitter.com/SympoEbsiSis) and on Facebook [@sympoEbsiSis](https://www.facebook.com/people/Symposium-Ebsi-Sis/100075478524975/).
 
 We look forward to seeing you at the EBSI-SIS Symposium!
 
