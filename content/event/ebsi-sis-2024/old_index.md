@@ -1,8 +1,8 @@
 ---
-title: EBSI-SIS Symposium 2023 
+title: EBSI-SIS Symposium 2024
 subtitle: 15e Symposium Étudiant en Sciences de l'information ESBI-SIS / 15th EBSI-SIS Student Symposium in Information Studies 
 summary: "The EBSI-SIS Symposium is an annual event organized by the student of the École de bibliothéconomie et des sciences de l'information (Université de Montréal) and the School of Information Studies (McGill University)"
-date: 2023-03-02T09:45:00.878Z
+date: 2024-02-03T09:30:00.878Z
 draft: false
 featured: false
 location: Online
@@ -10,11 +10,10 @@ location_url: https://ebsi-sis.ebsi.umontreal.ca/
 location_url: 
 
 authors:
- - Bella Assen Jacquette Fleur
+ - Constance Poitras
+ - Virginie Wenglenski
  - Owen Stewart-Robertson
- - Xiaoqian (Zoey) Zhang
- - Richmond Yeboah
- - Denise Scandarolli Inacio
+ - Camille Demers
 
 links:
  - name: Site web officiel / Official website
@@ -26,52 +25,37 @@ image:
   preview_only: false
  
 ---
-<b>L'annonce en français suit</b>
 
-We are pleased to announce the 2023 EBSI-SIS Symposium in Information Sciences, jointly organized by the School of Information Studies (SIS) of the McGill University and the School of Library and Information Sciences (EBSI) of the University of Montreal. The event will take place virtually on May 09, 2023. For 15 years, this annual symposium has provided a unique opportunity for master’s and doctoral students to present their research and engage with their peers. Embracing the possibilities offered by virtual meetings, for the past few years, we have welcomed students from other institutions, both Canadian and international, to present and participate.
+<b>APPEL À COMMUNICATION</b>
 
-The symposium is free and open to all
+Nous sommes heureux d’annoncer la tenue du symposium annuel EBSI-SIS en sciences de l’information, organisé conjointement par l’École de bibliothéconomie et des sciences de l’information (EBSI) de l’Université de Montréal et l’École des études en information (SIS) de l’Université McGill. L’évènement aura lieu virtuellement le <b><u>3 mai 2024</u></b>. Depuis maintenant 15 ans, le symposium annuel donne l’occasion aux étudiant.e.s à la maîtrise et au doctorat de présenter leurs travaux de recherche et de rencontrer leurs pairs. Nous profitons de l’opportunité qu’offre la technologie pour encourager les étudiant.e.s étranger.ère.s à répondre à notre invitation.
 
-Cash prizes for : 
-* Best Presentations (Master’s & Doctoral) $100
-* Best Posters (Master’s & Doctoral) $50
+<b>Appel à communication</b>
 
-Call for submissions : The symposium committee invites master’s students, doctoral students, and postdoctoral researchers in information science and related research fields to submit proposals for poster (7 min followed by 3 min questions), flash talk (3 min in 3 slides maximum followed by 2 min questions), or paper presentations (15 min followed by 5 min questions). All presentations will be followed by a brief question period. Varied perspectives and methodologies, as well as ongoing research projects are welcome. Authors are asked to submit their proposal through the following [Google form](https://forms.gle/njiWHoyrd2QCgyA29) by April 07, 2023. Decisions will be communicated to authors by April 14, 2023. All presenters must also register for the symposium.
+Le comité du symposium invite les étudiant.e.s en maîtrise/master et au doctorat en sciences de l’information à soumettre leur proposition de communication sous forme d’affiche (8 minutes), de présentation éclair (3 minutes et 3 diapositives maximum) ou de présentation orale (20 minutes), le tout accompagné d’une période de questions. Les perspectives et les méthodologies variées, ainsi que les projets de recherche en cours sont les bienvenus. Des prix seront décernés à la meilleure affiche et à la meilleure présentation orale. Les communications peuvent être données en français ou en anglais. Les conférencier.ère.s peuvent soumettre leur communication en remplissant le [formulaire](https://forms.gle/BNMUNbZF4vRwSnr29) prévu à cet effet <b>d’ici le 29 mars 2024</b>. Les décisions seront communiquées dès le 5 avril 2024.
 
-Important dates :
+<b>Inscription</b>
 
-* Initial proposals due: April 07, 2023
-* Proposals evaluated; decisions sent to authors: April 14, 2023
-* 15th EBSI-SIS Symposium: May 09, 2023
+Le symposium est gratuit pour tous mais nécessite une inscription [ici](https://forms.gle/BNMUNbZF4vRwSnr29). Pour plus d’information, veuillez consulter nos sites Web [ebsi-sis.ebsi.umontreal.ca](https://ebsi-sis.ebsi.umontreal.ca/) ou [mcgill.ca/sis-students/asist](https://mcgill.ca/sis-students/asist/events), ou nous contacter à l’adresse [sympo.ebsisis@gmail.com](mailto:sympo.ebsisis@gmail.com). Vous pouvez également nous suivre sur X [@sympoEbsiSis](https://twitter.com/SympoEbsiSis) et sur Facebook [@sympoEbsiSis](https://www.facebook.com/people/Symposium-Ebsi-Sis/100075478524975/).
 
-Registration :
-Registration is FREE but required. Please click [here](https://forms.gle/Qd1rc2SDmyzuinvZ6) to register for the symposium. For more information, please contact us at sympo.ebsisis@gmail.com.
+Au plaisir de vous rencontrer au symposium EBSI-SIS!
 
-We look forward to seeing you at the 15th EBSI-SIS Symposium!
-
-EBSI-SIS 2023 Symposium Organizing Committee: Bella Assen Jacquette Fleur, Owen Stewart-Robertson, Xiaoqian (Zoey) Zhang, Richmond Yeboah, Denise Scandarolli Inacio
+Comité organisateur de l’EBSI Comité organisateur du SIS-ASIS&T: Constance Poitras, Virginie Wenglenski, Owen Stewart-Robertson, Camille Demers
 
 ***
 
-Nous avons l’honneur d’annoncer la tenue de la 15e édition du symposium annuel des sciences de l’information, EBSI-SIS 2023, organisé conjointement par l’École de Bibliothéconomie et des Sciences de l’Information (EBSI) de l’Université de Montréal et la School of Information Studies (SIS) de l’Université McGill. L’évènement aura lieu virtuellement le 09 mai 2023. Depuis maintenant 15 ans, le symposium annuel offre aux étudiants à la maîtrise, au doctorat et au post-doctorat une opportunité de présenter leurs travaux de recherche et de rencontrer leurs pairs. Tous les étudiants en science de l’information des pays étrangers sont invités et leur participation est fortement encouragée.
+<b>15th EBSI-SIS Symposium</b>
 
-Le symposium est gratuit et ouvert à tous
+We are pleased to announce the annual EBSI-SIS Information Science Symposium, organized by the École de bibliothéconomie et des sciences de l'information (EBSI) of the Université de Montréal and School of Information Studies (SIS) of McGill University. The event will take place virtually on <b><u>May 3, 2024</u></b>. For the past 15 years, the annual symposium has provided an opportunity for master's and doctoral students to present their research work and meet their peers. We are taking advantage of the opportunity offered by technology to encourage international students to respond to our invitation.
 
-Prix en argent pour : 
-* meilleures présentations (maîtrise et doctorat) 100$
-* meilleures affiches (maîtrise et doctorat) 50$
+<b>Call for Papers</b>
 
-Le comité d’organisation du symposium invite les étudiants en maîtrise/master et au doctorat, ainsi que les chercheurs postdoctoraux en sciences de l’information à soumettre leur proposition de communication sous forme d’affiche (7 minutes pour la présentation et 3 minutes de questions), de présentation éclair (3 minutes de présentation de 3 diapositives maximum et 2 minutes de questions) ou de présentation orale (15 minutes de présentation et 5 minutes de réponse aux questions), le tout accompagné d’une période de questions. Les perspectives et les méthodologies variées, ainsi que les projets de recherche en cours sont les bienvenus. Les communications peuvent être données en français ou en anglais. Les auteurs peuvent soumettre leur communication en remplissant le [formulaire](https://forms.gle/njiWHoyrd2QCgyA29) prévu à cet effet, d’ici le 07 avril 2023. Les décisions seront communiquées aux auteurs dès le 14 avril 2023. Tous les participants doivent aussi s'inscrire au symposium.
+The symposium committee invites master's and doctoral students in information science to submit their proposals in the form of a poster (8 minutes), a flash presentation (3 minutes and 3 slides maximum) or an oral presentation (20 minutes), all accompanied by a question period. A variety of perspectives and methodologies, as well as current research projects, are welcome. Prizes will be awarded to the best poster and the best oral presentation. Papers can be given in English or French. Speakers may submit their papers by completing the [form](https://forms.gle/BNMUNbZF4vRwSnr29) provided by <b>March 29, 2024</b>. Decisions will be communicated by April 5, 2024.
 
-Dates importantes :
-* Dépôt des propositions initiales : 07 avril 2023
-* Propositions évaluées, décisions envoyées aux auteurs : 14 avril 2023
-* 15e Symposium EBSI-SIS : 09 mai 2023
+<b>Registration</b>
 
-Inscription :
-L'inscription est GRATUITE mais obligatoire. 
-Cliquez [ici](https://forms.gle/Qd1rc2SDmyzuinvZ6) pour vous inscrire au colloque. Pour plus d'informations, veuillez nous contacter à sympo.ebsisis@gmail.com. 
+The symposium is free for all but requires registration [here](https://forms.gle/BNMUNbZF4vRwSnr29). For more information, please visit our websites [ebsi-sis.ebsi.umontreal.ca](https://ebsi-sis.ebsi.umontreal.ca/) or [mcgill.ca/sis-students/asist](https://mcgill.ca/sis-students/asist/events), or contact us at [sympo.ebsisis@gmail.com](mailto:sympo.ebsisis@gmail.com). You can also follow us on X [@sympoEbsiSis](https://twitter.com/SympoEbsiSis) and on Facebook [@sympoEbsiSis](https://www.facebook.com/people/Symposium-Ebsi-Sis/100075478524975/).
 
-Nous avons hâte de vous voir au 15e Symposium EBSI-SIS!
+We look forward to seeing you at the EBSI-SIS Symposium!
 
-Comité organisateur du 15e Symposium EBSI-SIS: Bella Assen Jacquette Fleur, Owen Stewart-Robertson, Xiaoqian (Zoey) Zhang, Richmond Yeboah, Denise Scandarolli Inacio
+EBSI organizing committee SIS-ASIS&T organizing committee: Constance Poitras, Virginie Wenglenski, Owen Stewart-Robertson, Camille Demers
