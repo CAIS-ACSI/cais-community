@@ -18,7 +18,8 @@ authors:
 links:
  - name: Site web officiel / Official website
    url: https://ebsi-sis.ebsi.umontreal.ca/
-   
+ - name: Zoom Link
+   url: https://zoom.com
 image:
   filename: featured
   focal_point: Smart
