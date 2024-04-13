@@ -18,7 +18,7 @@ authors:
 links:
  - name: Site web officiel / Official website
    url: https://ebsi-sis.ebsi.umontreal.ca/
- - name: Zoom Link
+ - name: Zoom Link (coming soon)
    url: https://zoom.com
 image:
   filename: featured
