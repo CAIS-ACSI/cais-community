@@ -19,7 +19,7 @@ links:
  - name: Site web officiel / Official website
    url: https://ebsi-sis.ebsi.umontreal.ca/
  - name: Zoom Link
-   url: [https://zoom.com](https://us06web.zoom.us/j/81241107726?pwd=cA0ASiiWSZKxvULCkCtIqwB9ZWXbfT.1 )
+   url: https://us06web.zoom.us/j/81241107726?pwd=cA0ASiiWSZKxvULCkCtIqwB9ZWXbfT.1 
 image:
   filename: featured
   focal_point: Smart
