@@ -21,7 +21,9 @@ authors:
 - Laurie Morrison
 
 tags: 
-- 
+- Wellness
+- Library Programming
+- Library Spaces
 
 
 # Is this a featured talk? (true/false)
