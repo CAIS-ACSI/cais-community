@@ -25,6 +25,7 @@ tags:
 - Nigeria
 - Government Data
 - Open Data
+- OGD portal
 
 # Is this a featured talk? (true/false)
 featured: false
