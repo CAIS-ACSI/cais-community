@@ -19,7 +19,9 @@ authors:
 - Kayla Kuni
 
 tags: 
-- 
+- wellness
+- mental health
+- students
 
 
 # Is this a featured talk? (true/false)
