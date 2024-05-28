@@ -21,7 +21,9 @@ authors:
 - Jessie Loyer
 
 tags: 
-- 
+- Indigenous Knowledge
+- Keynote
+- Relationality
 
 
 # Is this a featured talk? (true/false)
