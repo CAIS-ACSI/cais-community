@@ -19,7 +19,9 @@ authors:
 - Joanne Oud
 
 tags: 
-- 
+- wellness
+- disability
+- academic library approaches
 
 
 # Is this a featured talk? (true/false)
