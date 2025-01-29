@@ -19,7 +19,7 @@ authors:
 - Ania Dymarz
 
 tags: 
-- Strategic_Planning
+- strategic planning
 
 
 # Is this a featured talk? (true/false)
