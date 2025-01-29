@@ -20,6 +20,7 @@ authors:
 
 tags: 
 - strategic planning
+- emotional responses
 
 
 # Is this a featured talk? (true/false)
